@@ -9,57 +9,60 @@ redirect_from:
 
 <a id="about"></a>
 
-I am a Master's student in Psychology at [Zhejiang University](https://www.zju.edu.cn/english/), advised by [Prof. Jifan Zhou](mailto:jifanzhou@zju.edu.cn) and [Prof. Mowei Shen](mailto:mwshen@zju.edu.cn). My research focuses on **social cognition underlying human-robot interaction**, exploring how humans perceive and interact with artificial agents.
+<div class="about-top">
+  <div class="about-main">
+    <p>I am a Master's student in Psychology at <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>, advised by <a href="mailto:jifanzhou@zju.edu.cn">Prof. Jifan Zhou</a> and <a href="mailto:mwshen@zju.edu.cn">Prof. Mowei Shen</a>. My research focuses on <strong>social cognition underlying human-robot interaction</strong>, exploring how humans perceive and interact with artificial agents.</p>
+    <p>Prior to this, I received my B.S. in Psychology from <a href="http://www.swu.edu.cn/">Southwest University</a> in 2024, where I graduated with honors (ranked 2/103).</p>
 
-Prior to this, I received my B.S. in Psychology from [Southwest University](http://www.swu.edu.cn/) in 2024, where I graduated with honors (ranked 2/103).
+    <div class="about-split">
+      <div class="about-col">
+        <h2 id="interests"><i class="fas fa-fw fa-lightbulb section-icon" aria-hidden="true"></i>Interests</h2>
+        <ul class="about-list">
+          <li><strong>Human-Robot Interaction</strong>: Understanding how humans spontaneously adopt perspectives of non-human agents</li>
+          <li><strong>Social Cognition</strong>: Investigating the cognitive mechanisms behind human-agent social interactions</li>
+          <li><strong>Cognitive Modeling</strong>: Applying computational approaches (Bayesian modeling, machine learning) to understand human cognition</li>
+        </ul>
+      </div>
+      <div class="about-col">
+        <h2 id="education"><i class="fas fa-fw fa-graduation-cap section-icon" aria-hidden="true"></i>Education</h2>
+        <div class="edu-item">
+          <div class="edu-school">
+            <span class="edu-name">Zhejiang University</span>
+            <img class="edu-logo" src="{{ \"/images/zju_logo.png\" | relative_url }}" alt="Zhejiang University logo" />
+          </div>
+          <div class="edu-location">Hangzhou, China</div>
+          <div class="edu-meta">M.S. in Psychology | Sep. 2024 - Jun. 2027 (Expected)</div>
+          <div class="edu-meta edu-advisors">Advisors: Prof. Jifan Zhou, Prof. Mowei Shen</div>
+        </div>
+        <div class="edu-item">
+          <div class="edu-school">
+            <span class="edu-name">Southwest University</span>
+            <img class="edu-logo" src="{{ \"/images/swu_logo.png\" | relative_url }}" alt="Southwest University logo" />
+          </div>
+          <div class="edu-location">Chongqing, China</div>
+          <div class="edu-meta">B.S. in Psychology | Sep. 2020 - Jun. 2024</div>
+        </div>
+      </div>
+    </div>
+  </div>
 
-<aside class="sidebar__right news-sidebar">
-  <h3>News</h3>
-  <div class="news-year">2025</div>
-  <ul class="news-list">
-    <li class="news-item"><strong>[Oct 2025]</strong> Started remote research collaboration with Prof. Jianqiao Zhu at The University of Hong Kong, working on LLM-Human differences in Theory of Mind.</li>
-    <li class="news-item"><strong>[Apr 2025]</strong> Serving as Teaching Assistant for "The Advanced Psychological Measurement" course at Zhejiang University.</li>
-    <li class="news-item"><strong>[Jan 2025]</strong> Our paper "Good to see you R2-D2: Inducing spontaneous perspective-taking towards non-human agents through human-like gaze and reach" has been published in <em>Cognition</em>.</li>
-    <li class="news-item"><strong>[Jan 2025]</strong> Paper "Enhancement of joint flanker effect in intergroup competition" published in <em>PsyCh Journal</em>.</li>
-  </ul>
-  <div class="news-year">2024</div>
-  <ul class="news-list">
-    <li class="news-item"><strong>[Dec 2024]</strong> Oral presentation at the Annual Conference on Industrial Psychology and New Productivity.</li>
-    <li class="news-item"><strong>[Dec 2024]</strong> Awarded <strong>National Scholarship</strong> (2024-2025), top 1 student in college per year.</li>
-    <li class="news-item"><strong>[Sep 2024]</strong> Started M.S. program in Psychology at Zhejiang University.</li>
-    <li class="news-item"><strong>[Jun 2024]</strong> Graduated from Southwest University with B.S. in Psychology (GPA: 4.13/5.0, Rank: 2/103).</li>
-  </ul>
-</aside>
-
-<div class="about-split">
-  <div class="about-col">
-    <h2 id="interests"><i class="fas fa-fw fa-lightbulb section-icon" aria-hidden="true"></i>Interests</h2>
-    <ul class="about-list">
-      <li><strong>Human-Robot Interaction</strong>: Understanding how humans spontaneously adopt perspectives of non-human agents</li>
-      <li><strong>Social Cognition</strong>: Investigating the cognitive mechanisms behind human-agent social interactions</li>
-      <li><strong>Cognitive Modeling</strong>: Applying computational approaches (Bayesian modeling, machine learning) to understand human cognition</li>
+  <aside class="news-sidebar">
+    <h3>News</h3>
+    <div class="news-year">2025</div>
+    <ul class="news-list">
+      <li class="news-item"><strong>[Oct 2025]</strong> Started remote research collaboration with Prof. Jianqiao Zhu at The University of Hong Kong, working on LLM-Human differences in Theory of Mind.</li>
+      <li class="news-item"><strong>[Apr 2025]</strong> Serving as Teaching Assistant for "The Advanced Psychological Measurement" course at Zhejiang University.</li>
+      <li class="news-item"><strong>[Jan 2025]</strong> Our paper "Good to see you R2-D2: Inducing spontaneous perspective-taking towards non-human agents through human-like gaze and reach" has been published in <em>Cognition</em>.</li>
+      <li class="news-item"><strong>[Jan 2025]</strong> Paper "Enhancement of joint flanker effect in intergroup competition" published in <em>PsyCh Journal</em>.</li>
     </ul>
-  </div>
-  <div class="about-col">
-    <h2 id="education"><i class="fas fa-fw fa-graduation-cap section-icon" aria-hidden="true"></i>Education</h2>
-    <div class="edu-item">
-      <div class="edu-school">
-        <span class="edu-name">Zhejiang University</span>
-        <img class="edu-logo" src="{{ \"/images/zju_logo.png\" | relative_url }}" alt="Zhejiang University logo" />
-      </div>
-      <div class="edu-location">Hangzhou, China</div>
-      <div class="edu-meta">M.S. in Psychology | Sep. 2024 - Jun. 2027 (Expected)</div>
-      <div class="edu-meta edu-advisors">Advisors: Prof. Jifan Zhou, Prof. Mowei Shen</div>
-    </div>
-    <div class="edu-item">
-      <div class="edu-school">
-        <span class="edu-name">Southwest University</span>
-        <img class="edu-logo" src="{{ \"/images/swu_logo.png\" | relative_url }}" alt="Southwest University logo" />
-      </div>
-      <div class="edu-location">Chongqing, China</div>
-      <div class="edu-meta">B.S. in Psychology | Sep. 2020 - Jun. 2024</div>
-    </div>
-  </div>
+    <div class="news-year">2024</div>
+    <ul class="news-list">
+      <li class="news-item"><strong>[Dec 2024]</strong> Oral presentation at the Annual Conference on Industrial Psychology and New Productivity.</li>
+      <li class="news-item"><strong>[Dec 2024]</strong> Awarded <strong>National Scholarship</strong> (2024-2025), top 1 student in college per year.</li>
+      <li class="news-item"><strong>[Sep 2024]</strong> Started M.S. program in Psychology at Zhejiang University.</li>
+      <li class="news-item"><strong>[Jun 2024]</strong> Graduated from Southwest University with B.S. in Psychology.</li>
+    </ul>
+  </aside>
 </div>
 
 ---
