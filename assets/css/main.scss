@@ -45,7 +45,7 @@
 /* Custom layout inspired by Jun-CEN for about/experience/publications */
 .about-split {
   display: grid;
-  grid-template-columns: minmax(0, 1.2fr) minmax(0, 0.8fr);
+  grid-template-columns: minmax(0, 1.35fr) minmax(0, 0.65fr);
   gap: 24px;
   margin: 1.5rem 0;
 }
@@ -344,7 +344,7 @@
 
 @media screen and (min-width: 1100px) {
   .about-page {
-    padding-right: 340px;
+    padding-right: 0;
   }
 }
 

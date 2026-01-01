@@ -46,25 +46,6 @@ redirect_from:
       </div>
     </div>
   </div>
-
-  <aside class="news-sidebar">
-    <h3>News</h3>
-    <div class="news-year">2025</div>
-    <ul class="news-list">
-      <li class="news-item"><strong>[Oct 2025]</strong> Started remote research collaboration with Prof. Jianqiao Zhu at The University of Hong Kong, working on LLM-Human differences in Theory of Mind.</li>
-      <li class="news-item"><strong>[Apr 2025]</strong> Serving as Teaching Assistant for "The Advanced Psychological Measurement" course at Zhejiang University.</li>
-      <li class="news-item"><strong>[Jan 2025]</strong> Our paper "Good to see you R2-D2: Inducing spontaneous perspective-taking towards non-human agents through human-like gaze and reach" has been published in <em>Cognition</em>.</li>
-      <li class="news-item"><strong>[Jan 2025]</strong> Paper "Enhancement of joint flanker effect in intergroup competition" published in <em>PsyCh Journal</em>.</li>
-    </ul>
-    <div class="news-year">2024</div>
-    <ul class="news-list">
-      <li class="news-item"><strong>[Dec 2024]</strong> Oral presentation at the Annual Conference on Industrial Psychology and New Productivity.</li>
-      <li class="news-item"><strong>[Dec 2024]</strong> Awarded <strong>National Scholarship</strong> (2024-2025), top 1 student in college per year.</li>
-      <li class="news-item"><strong>[Sep 2024]</strong> Started M.S. program in Psychology at Zhejiang University.</li>
-      <li class="news-item"><strong>[Jun 2024]</strong> Graduated from Southwest University with B.S. in Psychology.</li>
-    </ul>
-    </div>
-  </div>
 </div>
 
 
@@ -97,7 +78,7 @@ redirect_from:
       <div class="pub-right">
         <div class="title">Enhancement of joint flanker effect in intergroup competition</div>
         <div class="authors">Zhao, Y., <strong>Hu, X.</strong>, Zhou, J., Shen, M., & Xu, H.</div>
-        <div class="publish">PsyCh Journal, 14(1), 94膩鈧?02</div>
+        <div class="publish">PsyCh Journal, 14(1), 94-102</div>
         <div class="tags">[<a class="tag" href="https://doi.org/10.1002/pchj.12345">Paper</a>]</div>
       </div>
     </div>
@@ -148,7 +129,7 @@ redirect_from:
       <div class="pub-right">
         <div class="title">The uncanny valley effect and induced compensatory consumption behavior in language conditions</div>
         <div class="authors"><strong>Hu, X.</strong></div>
-        <div class="publish">Lecture Notes in Education Psychology and Public Media, 4, 426膩鈧?36 (Oral)</div>
+        <div class="publish">Lecture Notes in Education Psychology and Public Media, 4, 426-436 (Oral)</div>
       </div>
     </div>
   </div>
