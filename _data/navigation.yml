@@ -1,0 +1,17 @@
+# The following is the order of the links in the header of the website.
+
+main:
+  - title: "News"
+    url: /news/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Experience"
+    url: /experience/
+
+  - title: "Honors & Awards"
+    url: /honors/
+
+  - title: "CV"
+    url: /cv/
