@@ -1,17 +1,17 @@
-# The following is the order of the links in the header of the website.
+# Navigation links - all anchor links to sections on the main page
 
 main:
   - title: "News"
-    url: /news/
+    url: /#news
 
   - title: "Publications"
-    url: /publications/
+    url: /#publications
 
   - title: "Experience"
-    url: /experience/
+    url: /#experience
 
-  - title: "Honors & Awards"
-    url: /honors/
+  - title: "Honors"
+    url: /#honors
 
   - title: "CV"
-    url: /cv/
+    url: /files/XucongHu_CV.pdf
