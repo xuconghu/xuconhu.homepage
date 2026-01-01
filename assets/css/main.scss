@@ -45,7 +45,7 @@
 /* Custom layout inspired by Jun-CEN for about/experience/publications */
 .about-split {
   display: grid;
-  grid-template-columns: minmax(0, 1.35fr) minmax(0, 0.65fr);
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   gap: 24px;
   margin: 1.5rem 0;
 }
@@ -142,6 +142,20 @@
   padding-left: 16px;
   border-left: 4px solid #333;
   text-align: left;
+}
+
+.timeline-logo {
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+  vertical-align: middle;
+  margin-right: 6px;
+}
+
+.timeline-title .timeline-org {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
 }
 
 .timeline-item:before {
