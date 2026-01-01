@@ -44,9 +44,9 @@
 
 /* Custom layout inspired by Jun-CEN for about/experience/publications */
 .about-split {
-  display: flex;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   gap: 24px;
-  flex-wrap: wrap;
   margin: 1.5rem 0;
 }
 
@@ -270,22 +270,57 @@
   z-index: 20;
 }
 
+.news-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.news-title {
+  font-weight: 600;
+  font-size: 1.05em;
+}
+
 .news-float .news-list {
   list-style: none;
   padding-left: 0;
-}
-
-.news-float .news-year {
-  margin: 0.5rem 0 0.25rem;
-  font-weight: 600;
+  margin: 0;
 }
 
 .news-float .news-item {
+  display: flex;
+  gap: 8px;
   margin-bottom: 0.6rem;
   font-size: 0.95em;
+  line-height: 1.4;
+}
+
+.news-float .news-item::before {
+  content: "";
+  width: 6px;
+  height: 6px;
+  margin-top: 0.45em;
+  border-radius: 50%;
+  background: #ff7a6e;
+  flex: 0 0 6px;
+}
+
+.news-date {
+  font-weight: 600;
+  color: #ff7a6e;
+  white-space: nowrap;
+}
+
+.news-text {
+  color: var(--global-text-color);
 }
 
 @media screen and (max-width: 900px) {
+  .about-split {
+    grid-template-columns: 1fr;
+  }
+
   .news-float {
     position: static;
     width: auto;

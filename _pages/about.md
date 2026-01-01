@@ -11,7 +11,7 @@ redirect_from:
 
 <div class="about-page">
   <div class="about-top">
-  <div class="about-main">
+    <div class="about-main">
     <p>I am a Master's student in Psychology at <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>, advised by <a href="mailto:jifanzhou@zju.edu.cn">Prof. Jifan Zhou</a> and <a href="mailto:mwshen@zju.edu.cn">Prof. Mowei Shen</a>. My research focuses on <strong>social cognition underlying human-robot interaction</strong>, exploring how humans perceive and interact with artificial agents.</p>
     <p>Prior to this, I received my B.S. in Psychology from <a href="http://www.swu.edu.cn/">Southwest University</a> in 2024, where I graduated with honors (ranked 2/103).</p>
 
@@ -63,24 +63,47 @@ redirect_from:
       <li class="news-item"><strong>[Sep 2024]</strong> Started M.S. program in Psychology at Zhejiang University.</li>
       <li class="news-item"><strong>[Jun 2024]</strong> Graduated from Southwest University with B.S. in Psychology.</li>
     </ul>
+    </div>
   </div>
 </div>
 
-<aside class="news-float">
-  <h3>News</h3>
-  <div class="news-year">2025</div>
+<aside class="news-float" aria-label="News">
+  <div class="news-header">
+    <span class="news-title">News</span>
+  </div>
   <ul class="news-list">
-    <li class="news-item"><strong>[Oct 2025]</strong> Started remote research collaboration with Prof. Jianqiao Zhu at The University of Hong Kong, working on LLM-Human differences in Theory of Mind.</li>
-    <li class="news-item"><strong>[Apr 2025]</strong> Serving as Teaching Assistant for "The Advanced Psychological Measurement" course at Zhejiang University.</li>
-    <li class="news-item"><strong>[Jan 2025]</strong> Our paper "Good to see you R2-D2: Inducing spontaneous perspective-taking towards non-human agents through human-like gaze and reach" has been published in <em>Cognition</em>.</li>
-    <li class="news-item"><strong>[Jan 2025]</strong> Paper "Enhancement of joint flanker effect in intergroup competition" published in <em>PsyCh Journal</em>.</li>
-  </ul>
-  <div class="news-year">2024</div>
-  <ul class="news-list">
-    <li class="news-item"><strong>[Dec 2024]</strong> Oral presentation at the Annual Conference on Industrial Psychology and New Productivity.</li>
-    <li class="news-item"><strong>[Dec 2024]</strong> Awarded <strong>National Scholarship</strong> (2024-2025), top 1 student in college per year.</li>
-    <li class="news-item"><strong>[Sep 2024]</strong> Started M.S. program in Psychology at Zhejiang University.</li>
-    <li class="news-item"><strong>[Jun 2024]</strong> Graduated from Southwest University with B.S. in Psychology.</li>
+    <li class="news-item">
+      <span class="news-date">2025.10</span>
+      <span class="news-text">Started remote research collaboration with Prof. Jianqiao Zhu at The University of Hong Kong, working on LLM-Human differences in Theory of Mind.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">2025.04</span>
+      <span class="news-text">Serving as Teaching Assistant for "The Advanced Psychological Measurement" course at Zhejiang University.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">2025.01</span>
+      <span class="news-text">Our paper "Good to see you R2-D2: Inducing spontaneous perspective-taking towards non-human agents through human-like gaze and reach" has been published in <em>Cognition</em>.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">2025.01</span>
+      <span class="news-text">Paper "Enhancement of joint flanker effect in intergroup competition" published in <em>PsyCh Journal</em>.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">2024.12</span>
+      <span class="news-text">Oral presentation at the Annual Conference on Industrial Psychology and New Productivity.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">2024.12</span>
+      <span class="news-text">Awarded <strong>National Scholarship</strong> (2024-2025), top 1 student in college per year.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">2024.09</span>
+      <span class="news-text">Started M.S. program in Psychology at Zhejiang University.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">2024.06</span>
+      <span class="news-text">Graduated from Southwest University with B.S. in Psychology.</span>
+    </li>
   </ul>
 </aside>
 
