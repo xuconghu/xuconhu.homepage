@@ -29,7 +29,7 @@ redirect_from:
         <div class="edu-item">
           <div class="edu-school">
             <span class="edu-name">Zhejiang University</span>
-            <img class="edu-logo" src="{{ \"/images/zju_logo.png\" | relative_url }}" alt="Zhejiang University logo" />
+            <img class="edu-logo" src="{{ "/images/zju_logo.png" | relative_url }}" alt="Zhejiang University logo" />
           </div>
           <div class="edu-location">Hangzhou, China</div>
           <div class="edu-meta">M.S. in Psychology | Sep. 2024 - Jun. 2027 (Expected)</div>
@@ -38,7 +38,7 @@ redirect_from:
         <div class="edu-item">
           <div class="edu-school">
             <span class="edu-name">Southwest University</span>
-            <img class="edu-logo" src="{{ \"/images/swu_logo.png\" | relative_url }}" alt="Southwest University logo" />
+            <img class="edu-logo" src="{{ "/images/swu_logo.png" | relative_url }}" alt="Southwest University logo" />
           </div>
           <div class="edu-location">Chongqing, China</div>
           <div class="edu-meta">B.S. in Psychology | Sep. 2020 - Jun. 2024</div>
@@ -95,7 +95,7 @@ redirect_from:
   <div class="pub-list">
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Publication cover placeholder" />
+        <img class="pub-cover" src="{{ "/images/500x300.png" | relative_url }}" alt="Publication cover placeholder" />
         <div class="pub-badge">2025</div>
       </div>
       <div class="pub-right">
@@ -107,19 +107,19 @@ redirect_from:
     </div>
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Publication cover placeholder" />
+        <img class="pub-cover" src="{{ "/images/500x300.png" | relative_url }}" alt="Publication cover placeholder" />
         <div class="pub-badge">2025</div>
       </div>
       <div class="pub-right">
         <div class="title">Enhancement of joint flanker effect in intergroup competition</div>
         <div class="authors">Zhao, Y., <strong>Hu, X.</strong>, Zhou, J., Shen, M., & Xu, H.</div>
-        <div class="publish">PsyCh Journal, 14(1), 94ā€?02</div>
+        <div class="publish">PsyCh Journal, 14(1), 94ā�?02</div>
         <div class="tags">[<a class="tag" href="https://doi.org/10.1002/pchj.12345">Paper</a>]</div>
       </div>
     </div>
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Publication cover placeholder" />
+        <img class="pub-cover" src="{{ "/images/500x300.png" | relative_url }}" alt="Publication cover placeholder" />
         <div class="pub-badge">2023</div>
       </div>
       <div class="pub-right">
@@ -131,7 +131,7 @@ redirect_from:
     </div>
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Publication cover placeholder" />
+        <img class="pub-cover" src="{{ "/images/500x300.png" | relative_url }}" alt="Publication cover placeholder" />
         <div class="pub-badge">2022</div>
       </div>
       <div class="pub-right">
@@ -147,7 +147,7 @@ redirect_from:
   <div class="pub-list">
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Publication cover placeholder" />
+        <img class="pub-cover" src="{{ "/images/500x300.png" | relative_url }}" alt="Publication cover placeholder" />
         <div class="pub-badge">2024</div>
       </div>
       <div class="pub-right">
@@ -158,13 +158,13 @@ redirect_from:
     </div>
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Publication cover placeholder" />
+        <img class="pub-cover" src="{{ "/images/500x300.png" | relative_url }}" alt="Publication cover placeholder" />
         <div class="pub-badge">2022</div>
       </div>
       <div class="pub-right">
         <div class="title">The uncanny valley effect and induced compensatory consumption behavior in language conditions</div>
         <div class="authors"><strong>Hu, X.</strong></div>
-        <div class="publish">Lecture Notes in Education Psychology and Public Media, 4, 426ā€?36 (Oral)</div>
+        <div class="publish">Lecture Notes in Education Psychology and Public Media, 4, 426ā�?36 (Oral)</div>
       </div>
     </div>
   </div>
@@ -173,7 +173,7 @@ redirect_from:
   <div class="pub-list">
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Publication cover placeholder" />
+        <img class="pub-cover" src="{{ "/images/500x300.png" | relative_url }}" alt="Publication cover placeholder" />
         <div class="pub-badge">2025</div>
       </div>
       <div class="pub-right">
@@ -183,7 +183,7 @@ redirect_from:
     </div>
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Publication cover placeholder" />
+        <img class="pub-cover" src="{{ "/images/500x300.png" | relative_url }}" alt="Publication cover placeholder" />
         <div class="pub-badge">2025</div>
       </div>
       <div class="pub-right">
@@ -193,7 +193,7 @@ redirect_from:
     </div>
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Publication cover placeholder" />
+        <img class="pub-cover" src="{{ "/images/500x300.png" | relative_url }}" alt="Publication cover placeholder" />
         <div class="pub-badge">2025</div>
       </div>
       <div class="pub-right">
@@ -203,7 +203,7 @@ redirect_from:
     </div>
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Publication cover placeholder" />
+        <img class="pub-cover" src="{{ "/images/500x300.png" | relative_url }}" alt="Publication cover placeholder" />
         <div class="pub-badge">2025</div>
       </div>
       <div class="pub-right">

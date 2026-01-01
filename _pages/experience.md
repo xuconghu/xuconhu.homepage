@@ -10,7 +10,7 @@ author_profile: true
     <div class="edu-item">
       <div class="edu-school">
         <span class="edu-name">Zhejiang University</span>
-        <img class="edu-logo" src="{{ \"/images/zju_logo.png\" | relative_url }}" alt="Zhejiang University logo" />
+        <img class="edu-logo" src="{{ "/images/zju_logo.png" | relative_url }}" alt="Zhejiang University logo" />
       </div>
       <div class="edu-location">Hangzhou, China</div>
       <div class="edu-meta">M.S. in Psychology | Sep. 2024 - Jun. 2027 (Expected)</div>
@@ -19,7 +19,7 @@ author_profile: true
     <div class="edu-item">
       <div class="edu-school">
         <span class="edu-name">Southwest University</span>
-        <img class="edu-logo" src="{{ \"/images/swu_logo.png\" | relative_url }}" alt="Southwest University logo" />
+        <img class="edu-logo" src="{{ "/images/swu_logo.png" | relative_url }}" alt="Southwest University logo" />
       </div>
       <div class="edu-location">Chongqing, China</div>
       <div class="edu-meta">B.S. in Psychology | Sep. 2020 - Jun. 2024</div>
