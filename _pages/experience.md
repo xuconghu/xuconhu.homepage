@@ -6,21 +6,27 @@ author_profile: true
 
 <div class="about-split">
   <div class="about-col">
-    <h2>Education</h2>
+    <h2><i class="fas fa-fw fa-graduation-cap section-icon" aria-hidden="true"></i>Education</h2>
     <div class="edu-item">
-      <div class="edu-school">Zhejiang University, Hangzhou, China</div>
+      <div class="edu-school">
+        <img class="edu-logo" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Zhejiang University logo" />
+        Zhejiang University, Hangzhou, China
+      </div>
       <div class="edu-meta">M.S. in Psychology | Sep. 2024 - Jun. 2027 (Expected)</div>
       <div class="edu-meta">GPA: 4.0/4.0 (Rank: 1/60)</div>
-      <div class="edu-meta">Advisors: Prof. Jifan Zhou, Prof. Mowei Shen</div>
+      <div class="edu-meta edu-advisors">Advisors: Prof. Jifan Zhou, Prof. Mowei Shen</div>
     </div>
     <div class="edu-item">
-      <div class="edu-school">Southwest University, Chongqing, China</div>
+      <div class="edu-school">
+        <img class="edu-logo" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Southwest University logo" />
+        Southwest University, Chongqing, China
+      </div>
       <div class="edu-meta">B.S. in Psychology | Sep. 2020 - Jun. 2024</div>
       <div class="edu-meta">GPA: 4.13/5.0 (Rank: 2/103)</div>
     </div>
   </div>
   <div class="about-col">
-    <h2>Academic Service</h2>
+    <h2><i class="fas fa-fw fa-briefcase section-icon" aria-hidden="true"></i>Academic Service</h2>
     <ul class="about-list">
       <li><em>Behavioral Sciences</em> (Reviewer)</li>
     </ul>

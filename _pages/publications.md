@@ -4,10 +4,12 @@ title: "Publications"
 author_profile: true
 ---
 
+<a id="publications"></a>
+
 (\* denotes equal contribution)
 
 <div class="publications">
-  <h2>Published</h2>
+  <h2><i class="fas fa-fw fa-book-open section-icon" aria-hidden="true"></i>Published</h2>
   <div class="pub-list">
     <div class="pub">
       <div class="pub-left">
@@ -59,7 +61,7 @@ author_profile: true
     </div>
   </div>
 
-  <h2>Conference Papers & Presentations</h2>
+  <h2><i class="fas fa-fw fa-comments section-icon" aria-hidden="true"></i>Conference Papers & Presentations</h2>
   <div class="pub-list">
     <div class="pub">
       <div class="pub-left">
@@ -85,7 +87,7 @@ author_profile: true
     </div>
   </div>
 
-  <h2>Under Review</h2>
+  <h2><i class="fas fa-fw fa-hourglass-half section-icon" aria-hidden="true"></i>Under Review</h2>
   <div class="pub-list">
     <div class="pub">
       <div class="pub-left">

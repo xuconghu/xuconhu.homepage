@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
+<a id="about"></a>
+
 I am a Master's student in Psychology at [Zhejiang University](https://www.zju.edu.cn/english/), advised by [Prof. Jifan Zhou](mailto:jifanzhou@zju.edu.cn) and [Prof. Mowei Shen](mailto:mwshen@zju.edu.cn). My research focuses on **social cognition underlying human-robot interaction**, exploring how humans perceive and interact with artificial agents.
 
 Prior to this, I received my B.S. in Psychology from [Southwest University](http://www.swu.edu.cn/) in 2024, where I graduated with honors (ranked 2/103).
 
 <div class="about-split">
   <div class="about-col">
-    <h2>Interests</h2>
+    <h2 id="interests"><i class="fas fa-fw fa-lightbulb section-icon" aria-hidden="true"></i>Interests</h2>
     <ul class="about-list">
       <li><strong>Human-Robot Interaction</strong>: Understanding how humans spontaneously adopt perspectives of non-human agents</li>
       <li><strong>Social Cognition</strong>: Investigating the cognitive mechanisms behind human-agent social interactions</li>
@@ -21,15 +23,21 @@ Prior to this, I received my B.S. in Psychology from [Southwest University](http
     </ul>
   </div>
   <div class="about-col">
-    <h2>Education</h2>
+    <h2 id="education"><i class="fas fa-fw fa-graduation-cap section-icon" aria-hidden="true"></i>Education</h2>
     <div class="edu-item">
-      <div class="edu-school">Zhejiang University, Hangzhou, China</div>
+      <div class="edu-school">
+        <img class="edu-logo" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Zhejiang University logo" />
+        Zhejiang University, Hangzhou, China
+      </div>
       <div class="edu-meta">M.S. in Psychology | Sep. 2024 - Jun. 2027 (Expected)</div>
       <div class="edu-meta">GPA: 4.0/4.0 (Rank: 1/60)</div>
-      <div class="edu-meta">Advisors: Prof. Jifan Zhou, Prof. Mowei Shen</div>
+      <div class="edu-meta edu-advisors">Advisors: Prof. Jifan Zhou, Prof. Mowei Shen</div>
     </div>
     <div class="edu-item">
-      <div class="edu-school">Southwest University, Chongqing, China</div>
+      <div class="edu-school">
+        <img class="edu-logo" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Southwest University logo" />
+        Southwest University, Chongqing, China
+      </div>
       <div class="edu-meta">B.S. in Psychology | Sep. 2020 - Jun. 2024</div>
       <div class="edu-meta">GPA: 4.13/5.0 (Rank: 2/103)</div>
     </div>
@@ -38,7 +46,7 @@ Prior to this, I received my B.S. in Psychology from [Southwest University](http
 
 ---
 
-# <a name="news"></a>News
+# <a id="news"></a>News
 
 ## 2025
 
@@ -56,12 +64,12 @@ Prior to this, I received my B.S. in Psychology from [Southwest University](http
 
 ---
 
-# <a name="publications"></a>Publications
+<h1 id="publications"><i class="fas fa-fw fa-file-lines section-icon" aria-hidden="true"></i>Publications</h1>
 
 (\* denotes equal contribution)
 
 <div class="publications">
-  <h2>Published</h2>
+  <h2><i class="fas fa-fw fa-book-open section-icon" aria-hidden="true"></i>Published</h2>
   <div class="pub-list">
     <div class="pub">
       <div class="pub-left">
@@ -113,7 +121,7 @@ Prior to this, I received my B.S. in Psychology from [Southwest University](http
     </div>
   </div>
 
-  <h2>Conference Papers</h2>
+  <h2><i class="fas fa-fw fa-comments section-icon" aria-hidden="true"></i>Conference Papers</h2>
   <div class="pub-list">
     <div class="pub">
       <div class="pub-left">
@@ -139,7 +147,7 @@ Prior to this, I received my B.S. in Psychology from [Southwest University](http
     </div>
   </div>
 
-  <h2>Under Review</h2>
+  <h2><i class="fas fa-fw fa-hourglass-half section-icon" aria-hidden="true"></i>Under Review</h2>
   <div class="pub-list">
     <div class="pub">
       <div class="pub-left">
@@ -190,7 +198,7 @@ Prior to this, I received my B.S. in Psychology from [Southwest University](http
 
 ---
 
-# <a name="experience"></a>Experience
+<h1 id="experience"><i class="fas fa-fw fa-briefcase section-icon" aria-hidden="true"></i>Experience</h1>
 
 <div class="timeline-brief">
   <div class="timeline-body">
@@ -240,7 +248,7 @@ Prior to this, I received my B.S. in Psychology from [Southwest University](http
 
 ---
 
-# <a name="honors"></a>Honors & Awards
+# <a id="honors"></a>Honors & Awards
 
 | Year | Award | Level |
 |------|-------|-------|
