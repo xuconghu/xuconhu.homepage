@@ -26,9 +26,9 @@ author:
   avatar           : "about_me.jpg"
   name             : "Xucong Hu"
   pronouns         : # example: "she/her"
-  bio              : "M.S. in Psychology<br>@ Zhejiang University"
+  bio              : "M.S. in Psychology"
   location         : "Hangzhou, China"
-  employer         : "Zhejiang University"
+  employer         :
   uri              : # URL
   email            : "xuconghu@zju.edu.cn"
 

@@ -13,6 +13,24 @@ I am a Master's student in Psychology at [Zhejiang University](https://www.zju.e
 
 Prior to this, I received my B.S. in Psychology from [Southwest University](http://www.swu.edu.cn/) in 2024, where I graduated with honors (ranked 2/103).
 
+<aside class="sidebar__right news-sidebar">
+  <h3>News</h3>
+  <div class="news-year">2025</div>
+  <ul class="news-list">
+    <li class="news-item"><strong>[Oct 2025]</strong> Started remote research collaboration with Prof. Jianqiao Zhu at The University of Hong Kong, working on LLM-Human differences in Theory of Mind.</li>
+    <li class="news-item"><strong>[Apr 2025]</strong> Serving as Teaching Assistant for "The Advanced Psychological Measurement" course at Zhejiang University.</li>
+    <li class="news-item"><strong>[Jan 2025]</strong> Our paper "Good to see you R2-D2: Inducing spontaneous perspective-taking towards non-human agents through human-like gaze and reach" has been published in <em>Cognition</em>.</li>
+    <li class="news-item"><strong>[Jan 2025]</strong> Paper "Enhancement of joint flanker effect in intergroup competition" published in <em>PsyCh Journal</em>.</li>
+  </ul>
+  <div class="news-year">2024</div>
+  <ul class="news-list">
+    <li class="news-item"><strong>[Dec 2024]</strong> Oral presentation at the Annual Conference on Industrial Psychology and New Productivity.</li>
+    <li class="news-item"><strong>[Dec 2024]</strong> Awarded <strong>National Scholarship</strong> (2024-2025), top 1 student in college per year.</li>
+    <li class="news-item"><strong>[Sep 2024]</strong> Started M.S. program in Psychology at Zhejiang University.</li>
+    <li class="news-item"><strong>[Jun 2024]</strong> Graduated from Southwest University with B.S. in Psychology (GPA: 4.13/5.0, Rank: 2/103).</li>
+  </ul>
+</aside>
+
 <div class="about-split">
   <div class="about-col">
     <h2 id="interests"><i class="fas fa-fw fa-lightbulb section-icon" aria-hidden="true"></i>Interests</h2>
@@ -26,41 +44,23 @@ Prior to this, I received my B.S. in Psychology from [Southwest University](http
     <h2 id="education"><i class="fas fa-fw fa-graduation-cap section-icon" aria-hidden="true"></i>Education</h2>
     <div class="edu-item">
       <div class="edu-school">
-        <img class="edu-logo" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Zhejiang University logo" />
-        Zhejiang University, Hangzhou, China
+        <span class="edu-name">Zhejiang University</span>
+        <img class="edu-logo" src="{{ \"/images/zju_logo.png\" | relative_url }}" alt="Zhejiang University logo" />
       </div>
+      <div class="edu-location">Hangzhou, China</div>
       <div class="edu-meta">M.S. in Psychology | Sep. 2024 - Jun. 2027 (Expected)</div>
-      <div class="edu-meta">GPA: 4.0/4.0 (Rank: 1/60)</div>
       <div class="edu-meta edu-advisors">Advisors: Prof. Jifan Zhou, Prof. Mowei Shen</div>
     </div>
     <div class="edu-item">
       <div class="edu-school">
-        <img class="edu-logo" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Southwest University logo" />
-        Southwest University, Chongqing, China
+        <span class="edu-name">Southwest University</span>
+        <img class="edu-logo" src="{{ \"/images/swu_logo.png\" | relative_url }}" alt="Southwest University logo" />
       </div>
+      <div class="edu-location">Chongqing, China</div>
       <div class="edu-meta">B.S. in Psychology | Sep. 2020 - Jun. 2024</div>
-      <div class="edu-meta">GPA: 4.13/5.0 (Rank: 2/103)</div>
     </div>
   </div>
 </div>
-
----
-
-# <a id="news"></a>News
-
-## 2025
-
-- **[Oct 2025]** Started remote research collaboration with Prof. Jianqiao Zhu at The University of Hong Kong, working on LLM-Human differences in Theory of Mind.
-- **[Apr 2025]** Serving as Teaching Assistant for "The Advanced Psychological Measurement" course at Zhejiang University.
-- **[Jan 2025]** Our paper "Good to see you R2-D2: Inducing spontaneous perspective-taking towards non-human agents through human-like gaze and reach" has been published in *Cognition*.
-- **[Jan 2025]** Paper "Enhancement of joint flanker effect in intergroup competition" published in *PsyCh Journal*.
-
-## 2024
-
-- **[Dec 2024]** Oral presentation at the Annual Conference on Industrial Psychology and New Productivity.
-- **[Dec 2024]** Awarded **National Scholarship** (2024-2025), top 1 student in college per year.
-- **[Sep 2024]** Started M.S. program in Psychology at Zhejiang University.
-- **[Jun 2024]** Graduated from Southwest University with B.S. in Psychology (GPA: 4.13/5.0, Rank: 2/103).
 
 ---
 
@@ -204,7 +204,7 @@ Prior to this, I received my B.S. in Psychology from [Southwest University](http
   <div class="timeline-body">
     <div class="timeline-item">
       <div class="timeline-date">Jun. 2023 - Present</div>
-      <div class="timeline-title">Project Leader — Zhejiang University</div>
+      <div class="timeline-title">Project Leader - Zhejiang University</div>
       <div class="timeline-desc">
         <div class="timeline-host">Social Cognition underlying Human-Robot Interaction</div>
         <ul>
@@ -216,7 +216,7 @@ Prior to this, I received my B.S. in Psychology from [Southwest University](http
     </div>
     <div class="timeline-item">
       <div class="timeline-date">Oct. 2025 - Present</div>
-      <div class="timeline-title">Remote Research Assistant — The University of Hong Kong</div>
+      <div class="timeline-title">Remote Research Assistant - The University of Hong Kong</div>
       <div class="timeline-desc">
         <div class="timeline-host">LLM-Human Differences in Theory of Mind</div>
         <ul>
@@ -227,12 +227,26 @@ Prior to this, I received my B.S. in Psychology from [Southwest University](http
     </div>
     <div class="timeline-item">
       <div class="timeline-date">Apr. 2023 - Aug. 2023</div>
-      <div class="timeline-title">Research Assistant — Chinese Academy of Sciences</div>
+      <div class="timeline-title">Research Assistant - Chinese Academy of Sciences</div>
       <div class="timeline-desc">
         <div class="timeline-host">Cognitive Load in Command Decision-Making</div>
         <ul>
           <li>Collected eye-tracking and physiological data with Tobii and BIOPAC</li>
           <li>Analyzed behavioral data with R (ANOVA, t-test)</li>
+        </ul>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-date">Sep. 2022 - Aug. 2023</div>
+      <div class="timeline-title">Remote Research Assistant - Tsinghua University (Beijing, China)</div>
+      <div class="timeline-desc">
+        <div class="timeline-host">Perspective-Taking toward Robots in Older Adults</div>
+        <div class="timeline-host">Supervisor: Dr. Song Tong</div>
+        <ul>
+          <li>Created human-like face stimuli with varying anthropomorphism using FantaMorph</li>
+          <li>Programmed experimental tasks with PsychoPy (Python)</li>
+          <li>Recruited and assisted older adult participants from community settings in completing tests and questionnaires</li>
+          <li>Analyzed behavioral data in SPSS using ANOVA and t-tests</li>
         </ul>
       </div>
     </div>

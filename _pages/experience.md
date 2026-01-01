@@ -9,20 +9,20 @@ author_profile: true
     <h2><i class="fas fa-fw fa-graduation-cap section-icon" aria-hidden="true"></i>Education</h2>
     <div class="edu-item">
       <div class="edu-school">
-        <img class="edu-logo" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Zhejiang University logo" />
-        Zhejiang University, Hangzhou, China
+        <span class="edu-name">Zhejiang University</span>
+        <img class="edu-logo" src="{{ \"/images/zju_logo.png\" | relative_url }}" alt="Zhejiang University logo" />
       </div>
+      <div class="edu-location">Hangzhou, China</div>
       <div class="edu-meta">M.S. in Psychology | Sep. 2024 - Jun. 2027 (Expected)</div>
-      <div class="edu-meta">GPA: 4.0/4.0 (Rank: 1/60)</div>
       <div class="edu-meta edu-advisors">Advisors: Prof. Jifan Zhou, Prof. Mowei Shen</div>
     </div>
     <div class="edu-item">
       <div class="edu-school">
-        <img class="edu-logo" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Southwest University logo" />
-        Southwest University, Chongqing, China
+        <span class="edu-name">Southwest University</span>
+        <img class="edu-logo" src="{{ \"/images/swu_logo.png\" | relative_url }}" alt="Southwest University logo" />
       </div>
+      <div class="edu-location">Chongqing, China</div>
       <div class="edu-meta">B.S. in Psychology | Sep. 2020 - Jun. 2024</div>
-      <div class="edu-meta">GPA: 4.13/5.0 (Rank: 2/103)</div>
     </div>
   </div>
   <div class="about-col">
@@ -41,7 +41,7 @@ author_profile: true
   <div class="timeline-body">
     <div class="timeline-item">
       <div class="timeline-date">Jun. 2023 - Present</div>
-      <div class="timeline-title">Project Leader — Zhejiang University</div>
+      <div class="timeline-title">Project Leader - Zhejiang University</div>
       <div class="timeline-desc">
         <div class="timeline-host">Social Cognition underlying Human-Robot Interaction</div>
         <ul>
@@ -57,7 +57,7 @@ author_profile: true
     </div>
     <div class="timeline-item">
       <div class="timeline-date">Oct. 2025 - Present</div>
-      <div class="timeline-title">Remote Research Assistant — The University of Hong Kong</div>
+      <div class="timeline-title">Remote Research Assistant - The University of Hong Kong</div>
       <div class="timeline-desc">
         <div class="timeline-host">LLM-Human Differences in Theory of Mind</div>
         <ul>
@@ -68,7 +68,7 @@ author_profile: true
     </div>
     <div class="timeline-item">
       <div class="timeline-date">Apr. 2023 - Aug. 2023</div>
-      <div class="timeline-title">Research Assistant — Chinese Academy of Sciences</div>
+      <div class="timeline-title">Research Assistant - Chinese Academy of Sciences</div>
       <div class="timeline-desc">
         <div class="timeline-host">Cognitive Load in Command Decision-Making</div>
         <ul>
@@ -81,13 +81,14 @@ author_profile: true
     </div>
     <div class="timeline-item">
       <div class="timeline-date">Sep. 2022 - Aug. 2023</div>
-      <div class="timeline-title">Remote Research Assistant — Tsinghua University</div>
+      <div class="timeline-title">Remote Research Assistant - Tsinghua University (Beijing, China)</div>
       <div class="timeline-desc">
         <div class="timeline-host">Perspective-Taking toward Robots in Older Adults</div>
+        <div class="timeline-host">Supervisor: Dr. Song Tong</div>
         <ul>
           <li>Created human-like face stimuli with varying anthropomorphism using FantaMorph</li>
           <li>Programmed experimental tasks with PsychoPy (Python)</li>
-          <li>Recruited and assisted older adult participants from community settings</li>
+          <li>Recruited and assisted older adult participants from community settings in completing tests and questionnaires</li>
           <li>Analyzed behavioral data in SPSS using ANOVA and t-tests</li>
         </ul>
       </div>
@@ -103,7 +104,7 @@ author_profile: true
   <div class="timeline-body">
     <div class="timeline-item">
       <div class="timeline-date">Apr. 2025 - Jun. 2025</div>
-      <div class="timeline-title">Teaching Assistant — Zhejiang University</div>
+      <div class="timeline-title">Teaching Assistant - Zhejiang University</div>
       <div class="timeline-desc">
         <div class="timeline-host">The Advanced Psychological Measurement</div>
         <ul>
