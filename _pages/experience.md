@@ -4,70 +4,110 @@ title: "Experience"
 author_profile: true
 ---
 
-## Education
-
-### Zhejiang University, Hangzhou, China
-**M.S. in Psychology** | Sep. 2024 - Jun. 2027 (Expected)
-- GPA: 4.0/4.0 (Rank: 1/60)
-- Advisors: [Prof. Jifan Zhou](mailto:jifanzhou@zju.edu.cn), [Prof. Mowei Shen](mailto:mwshen@zju.edu.cn)
-
-### Southwest University, Chongqing, China
-**B.S. in Psychology** | Sep. 2020 - Jun. 2024
-- GPA: 4.13/5.0 (Rank: 2/103)
+<div class="about-split">
+  <div class="about-col">
+    <h2>Education</h2>
+    <div class="edu-item">
+      <div class="edu-school">Zhejiang University, Hangzhou, China</div>
+      <div class="edu-meta">M.S. in Psychology | Sep. 2024 - Jun. 2027 (Expected)</div>
+      <div class="edu-meta">GPA: 4.0/4.0 (Rank: 1/60)</div>
+      <div class="edu-meta">Advisors: Prof. Jifan Zhou, Prof. Mowei Shen</div>
+    </div>
+    <div class="edu-item">
+      <div class="edu-school">Southwest University, Chongqing, China</div>
+      <div class="edu-meta">B.S. in Psychology | Sep. 2020 - Jun. 2024</div>
+      <div class="edu-meta">GPA: 4.13/5.0 (Rank: 2/103)</div>
+    </div>
+  </div>
+  <div class="about-col">
+    <h2>Academic Service</h2>
+    <ul class="about-list">
+      <li><em>Behavioral Sciences</em> (Reviewer)</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
 ## Research Experience
 
-### Project Leader | Social Cognition underlying Human-Robot Interaction
-**Zhejiang University** | Supervised by Prof. Jifan Zhou & Prof. Mowei Shen | Jun. 2023 - Present
-
-- Designed and implemented online cognitive psychology experiments using JavaScript and HTML, collecting behavioral data (reaction times, accuracy) from 3,000+ participants
-- Conducted statistical analyses in R (ANOVA, t-test, logistic regression, GLMM) on behavioral datasets
-- Performed exploratory and confirmatory factor analyses and reliability/validity testing on questionnaire data from 750 participants using R
-- Built predictive models of user ratings on robots with Python (scikit-learn, XGBoost), applying SHAP for interpretable machine learning
-- Created publication-quality visualizations using R (ggplot2) and Python (matplotlib)
-- Collected eye-tracking data with Tobii, integrated participants' verbal reports with video-based behavioral coding, and applied Hidden Markov Models (HMMs) in PyMC for cognitive process modeling (ongoing)
-- Produced 6+ peer-reviewed manuscripts in psychology, robotics, and computer science
-
-### Remote Research Assistant | LLM-Human Differences in Theory of Mind
-**The University of Hong Kong** | Supervised by Prof. Jianqiao Zhu | Oct. 2025 - Present
-
-- Designed a dynamic grid-world Theory-of-Mind task to benchmark LLMs through API-based evaluations
-- Implemented Bayesian belief updating to compare inference trajectories between LLMs and human data, leveraging MCMC-based power sampling
-
-### Research Assistant | Cognitive Load in Command Decision-Making
-**Chinese Academy of Sciences, Institute of Psychology** | Supervised by Prof. Jingyu Zhang | Apr. 2023 - Aug. 2023
-
-- Simulated multitasking decision-making tasks using the strategy game Command: Modern Operations
-- Conducted semi-structured expert interviews with professional commanders
-- Collected eye-tracking data with Tobii and physiological measures (heart rate, skin conductance) with BIOPAC
-- Analyzed behavioral data with R (ANOVA, t-test) and created visualizations with ggplot2
-
-### Remote Research Assistant | Perspective-Taking toward Robots in Older Adults
-**Tsinghua University** | Supervised by Dr. Song Tong | Sep. 2022 - Aug. 2023
-
-- Created human-like face stimuli with varying anthropomorphism using FantaMorph
-- Programmed experimental tasks with PsychoPy (Python)
-- Recruited and assisted older adult participants from community settings
-- Analyzed behavioral data in SPSS using ANOVA and t-tests
+<div class="timeline-brief">
+  <div class="timeline-body">
+    <div class="timeline-item">
+      <div class="timeline-date">Jun. 2023 - Present</div>
+      <div class="timeline-title">Project Leader — Zhejiang University</div>
+      <div class="timeline-desc">
+        <div class="timeline-host">Social Cognition underlying Human-Robot Interaction</div>
+        <ul>
+          <li>Designed and implemented online cognitive psychology experiments using JavaScript and HTML, collecting behavioral data (reaction times, accuracy) from 3,000+ participants</li>
+          <li>Conducted statistical analyses in R (ANOVA, t-test, logistic regression, GLMM) on behavioral datasets</li>
+          <li>Performed exploratory and confirmatory factor analyses and reliability/validity testing on questionnaire data from 750 participants using R</li>
+          <li>Built predictive models of user ratings on robots with Python (scikit-learn, XGBoost), applying SHAP for interpretable machine learning</li>
+          <li>Created publication-quality visualizations using R (ggplot2) and Python (matplotlib)</li>
+          <li>Collected eye-tracking data with Tobii, integrated participants' verbal reports with video-based behavioral coding, and applied Hidden Markov Models (HMMs) in PyMC for cognitive process modeling (ongoing)</li>
+          <li>Produced 6+ peer-reviewed manuscripts in psychology, robotics, and computer science</li>
+        </ul>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-date">Oct. 2025 - Present</div>
+      <div class="timeline-title">Remote Research Assistant — The University of Hong Kong</div>
+      <div class="timeline-desc">
+        <div class="timeline-host">LLM-Human Differences in Theory of Mind</div>
+        <ul>
+          <li>Designed a dynamic grid-world Theory-of-Mind task to benchmark LLMs through API-based evaluations</li>
+          <li>Implemented Bayesian belief updating to compare inference trajectories between LLMs and human data, leveraging MCMC-based power sampling</li>
+        </ul>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-date">Apr. 2023 - Aug. 2023</div>
+      <div class="timeline-title">Research Assistant — Chinese Academy of Sciences</div>
+      <div class="timeline-desc">
+        <div class="timeline-host">Cognitive Load in Command Decision-Making</div>
+        <ul>
+          <li>Simulated multitasking decision-making tasks using the strategy game Command: Modern Operations</li>
+          <li>Conducted semi-structured expert interviews with professional commanders</li>
+          <li>Collected eye-tracking data with Tobii and physiological measures (heart rate, skin conductance) with BIOPAC</li>
+          <li>Analyzed behavioral data with R (ANOVA, t-test) and created visualizations with ggplot2</li>
+        </ul>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-date">Sep. 2022 - Aug. 2023</div>
+      <div class="timeline-title">Remote Research Assistant — Tsinghua University</div>
+      <div class="timeline-desc">
+        <div class="timeline-host">Perspective-Taking toward Robots in Older Adults</div>
+        <ul>
+          <li>Created human-like face stimuli with varying anthropomorphism using FantaMorph</li>
+          <li>Programmed experimental tasks with PsychoPy (Python)</li>
+          <li>Recruited and assisted older adult participants from community settings</li>
+          <li>Analyzed behavioral data in SPSS using ANOVA and t-tests</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
 
 ---
 
 ## Teaching Experience
 
-### Teaching Assistant | The Advanced Psychological Measurement
-**Zhejiang University, Department of Psychology and Behavioral Sciences** | Apr. 2025 - Jun. 2025
-
-- Delivered presentations introducing commonly used experimental paradigms in psychology
-- Explained mathematical foundations of advanced psychological methods, including cognitive modeling approaches
-
----
-
-## Academic Service
-
-### Reviewer
-- *Behavioral Sciences* (SSCI Q2)
+<div class="timeline-brief">
+  <div class="timeline-body">
+    <div class="timeline-item">
+      <div class="timeline-date">Apr. 2025 - Jun. 2025</div>
+      <div class="timeline-title">Teaching Assistant — Zhejiang University</div>
+      <div class="timeline-desc">
+        <div class="timeline-host">The Advanced Psychological Measurement</div>
+        <ul>
+          <li>Delivered presentations introducing commonly used experimental paradigms in psychology</li>
+          <li>Explained mathematical foundations of advanced psychological methods, including cognitive modeling approaches</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
 
 ---
 

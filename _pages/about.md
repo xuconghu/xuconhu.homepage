@@ -11,11 +11,30 @@ I am a Master's student in Psychology at [Zhejiang University](https://www.zju.e
 
 Prior to this, I received my B.S. in Psychology from [Southwest University](http://www.swu.edu.cn/) in 2024, where I graduated with honors (ranked 2/103).
 
-## Research Interests
-
-- **Human-Robot Interaction**: Understanding how humans spontaneously adopt perspectives of non-human agents
-- **Social Cognition**: Investigating the cognitive mechanisms behind human-agent social interactions
-- **Cognitive Modeling**: Applying computational approaches (Bayesian modeling, machine learning) to understand human cognition
+<div class="about-split">
+  <div class="about-col">
+    <h2>Interests</h2>
+    <ul class="about-list">
+      <li><strong>Human-Robot Interaction</strong>: Understanding how humans spontaneously adopt perspectives of non-human agents</li>
+      <li><strong>Social Cognition</strong>: Investigating the cognitive mechanisms behind human-agent social interactions</li>
+      <li><strong>Cognitive Modeling</strong>: Applying computational approaches (Bayesian modeling, machine learning) to understand human cognition</li>
+    </ul>
+  </div>
+  <div class="about-col">
+    <h2>Education</h2>
+    <div class="edu-item">
+      <div class="edu-school">Zhejiang University, Hangzhou, China</div>
+      <div class="edu-meta">M.S. in Psychology | Sep. 2024 - Jun. 2027 (Expected)</div>
+      <div class="edu-meta">GPA: 4.0/4.0 (Rank: 1/60)</div>
+      <div class="edu-meta">Advisors: Prof. Jifan Zhou, Prof. Mowei Shen</div>
+    </div>
+    <div class="edu-item">
+      <div class="edu-school">Southwest University, Chongqing, China</div>
+      <div class="edu-meta">B.S. in Psychology | Sep. 2020 - Jun. 2024</div>
+      <div class="edu-meta">GPA: 4.13/5.0 (Rank: 2/103)</div>
+    </div>
+  </div>
+</div>
 
 ---
 
@@ -41,64 +60,176 @@ Prior to this, I received my B.S. in Psychology from [Southwest University](http
 
 (\* denotes equal contribution)
 
-## Published
+<div class="publications">
+  <h2>Published</h2>
+  <div class="pub-list">
+    <div class="pub">
+      <div class="pub-left">
+        <img class="pub-cover" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Publication cover placeholder" />
+        <div class="pub-badge">2025</div>
+      </div>
+      <div class="pub-right">
+        <div class="title">Good to see you R2-D2: Inducing spontaneous perspective-taking towards non-human agents through human-like gaze and reach</div>
+        <div class="authors"><strong>Hu, X.</strong>, Xu, H., Chen, H., Shen, M., & Zhou, J.</div>
+        <div class="publish">Cognition, 259, 106101</div>
+        <div class="tags">[<a class="tag" href="https://doi.org/10.1016/j.cognition.2025.106101">Paper</a>]</div>
+      </div>
+    </div>
+    <div class="pub">
+      <div class="pub-left">
+        <img class="pub-cover" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Publication cover placeholder" />
+        <div class="pub-badge">2025</div>
+      </div>
+      <div class="pub-right">
+        <div class="title">Enhancement of joint flanker effect in intergroup competition</div>
+        <div class="authors">Zhao, Y., <strong>Hu, X.</strong>, Zhou, J., Shen, M., & Xu, H.</div>
+        <div class="publish">PsyCh Journal, 14(1), 94ā€?02</div>
+        <div class="tags">[<a class="tag" href="https://doi.org/10.1002/pchj.12345">Paper</a>]</div>
+      </div>
+    </div>
+    <div class="pub">
+      <div class="pub-left">
+        <img class="pub-cover" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Publication cover placeholder" />
+        <div class="pub-badge">2023</div>
+      </div>
+      <div class="pub-right">
+        <div class="title">Effects of robot animacy and emotional expressions on perspective-taking abilities: a comparative study across age groups</div>
+        <div class="authors"><strong>Hu, X.</strong>, & Tong, S.</div>
+        <div class="publish">Behavioral Sciences, 13(9), 728</div>
+        <div class="tags">[<a class="tag" href="https://doi.org/10.3390/bs13090728">Paper</a>]</div>
+      </div>
+    </div>
+    <div class="pub">
+      <div class="pub-left">
+        <img class="pub-cover" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Publication cover placeholder" />
+        <div class="pub-badge">2022</div>
+      </div>
+      <div class="pub-right">
+        <div class="title">Face beauty or soul beauty? The influence of facial attractiveness and moral judgment on pain empathy</div>
+        <div class="authors">Zhu, J., Yang, Z., Ma, R., Yin, L., & <strong>Hu, X.</strong></div>
+        <div class="publish">Frontiers in Psychology, 13, 990637</div>
+        <div class="tags">[<a class="tag" href="https://doi.org/10.3389/fpsyg.2022.990637">Paper</a>]</div>
+      </div>
+    </div>
+  </div>
 
-1. **Hu, X.**, Xu, H., Chen, H., Shen, M., & Zhou, J. (2025). Good to see you R2-D2: Inducing spontaneous perspective-taking towards non-human agents through human-like gaze and reach. *Cognition*, 259, 106101.
+  <h2>Conference Papers</h2>
+  <div class="pub-list">
+    <div class="pub">
+      <div class="pub-left">
+        <img class="pub-cover" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Publication cover placeholder" />
+        <div class="pub-badge">2024</div>
+      </div>
+      <div class="pub-right">
+        <div class="title">Spontaneous perspective-taking toward multi-view robots: Evidence supporting the social agent model</div>
+        <div class="authors"><strong>Hu, X.</strong>, Zhou, J., & Shen, M.</div>
+        <div class="publish">Annual Conference on Industrial Psychology and New Productivity (Oral)</div>
+      </div>
+    </div>
+    <div class="pub">
+      <div class="pub-left">
+        <img class="pub-cover" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Publication cover placeholder" />
+        <div class="pub-badge">2022</div>
+      </div>
+      <div class="pub-right">
+        <div class="title">The uncanny valley effect and induced compensatory consumption behavior in language conditions</div>
+        <div class="authors"><strong>Hu, X.</strong></div>
+        <div class="publish">Lecture Notes in Education Psychology and Public Media, 4, 426ā€?36 (Oral)</div>
+      </div>
+    </div>
+  </div>
 
-2. Zhao, Y., **Hu, X.**, Zhou, J., Shen, M., & Xu, H. (2025). Enhancement of joint flanker effect in intergroup competition. *PsyCh Journal*, 14(1), 94–102.
-
-3. **Hu, X.**, & Tong, S. (2023). Effects of robot animacy and emotional expressions on perspective-taking abilities: a comparative study across age groups. *Behavioral Sciences*, 13(9), 728.
-
-4. Zhu, J., Yang, Z., Ma, R., Yin, L., & **Hu, X.** (2022). Face beauty or soul beauty? The influence of facial attractiveness and moral judgment on pain empathy. *Frontiers in Psychology*, 13, 990637.
-
-## Conference Papers
-
-1. **Hu, X.**, Zhou, J., & Shen, M. (2024, Dec). Spontaneous perspective-taking toward multi-view robots: Evidence supporting the social agent model. *Annual Conference on Industrial Psychology and New Productivity*. **(Oral)**
-
-2. **Hu, X.** (2022, May). The uncanny valley effect and induced compensatory consumption behavior in language conditions. *Lecture Notes in Education Psychology and Public Media*, 4, 426–436. **(Oral)**
-
-## Under Review
-
-1. **Hu, X.**, et al. (2025). Seeing through Janus' Eyes: How Humans Spontaneously Adopt Multiple Perspectives of Robot Avatars. *(International Journal of Social Robotics)*
-
-2. **Hu, X.**, et al. (2025). Causal Relationship Between Robot Perception and Behavior: A User-Centered Explainability Approach. *(International Journal of Human-Computer Interaction)*
-
-3. **Hu, X.**, et al. (2025). I'll Believe It Unless It's Too Absurd: Spontaneous Visual Perspective-Taking as Prior-Based Heuristic Inference. *(Cognition)*
-
-4. **Hu, X.**, et al. (2025). Do Robots Need a Head and Legs? How Appearance Features Predict Robots' Perceived Social Interaction Potential. *(ACM/IEEE HRI)*
+  <h2>Under Review</h2>
+  <div class="pub-list">
+    <div class="pub">
+      <div class="pub-left">
+        <img class="pub-cover" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Publication cover placeholder" />
+        <div class="pub-badge">2025</div>
+      </div>
+      <div class="pub-right">
+        <div class="title">Seeing through Janus' Eyes: How Humans Spontaneously Adopt Multiple Perspectives of Robot Avatars</div>
+        <div class="authors"><strong>Hu, X.</strong>, et al.</div>
+        <div class="publish">International Journal of Social Robotics</div>
+      </div>
+    </div>
+    <div class="pub">
+      <div class="pub-left">
+        <img class="pub-cover" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Publication cover placeholder" />
+        <div class="pub-badge">2025</div>
+      </div>
+      <div class="pub-right">
+        <div class="title">Causal Relationship Between Robot Perception and Behavior: A User-Centered Explainability Approach</div>
+        <div class="authors"><strong>Hu, X.</strong>, et al.</div>
+        <div class="publish">International Journal of Human-Computer Interaction</div>
+      </div>
+    </div>
+    <div class="pub">
+      <div class="pub-left">
+        <img class="pub-cover" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Publication cover placeholder" />
+        <div class="pub-badge">2025</div>
+      </div>
+      <div class="pub-right">
+        <div class="title">I'll Believe It Unless It's Too Absurd: Spontaneous Visual Perspective-Taking as Prior-Based Heuristic Inference</div>
+        <div class="authors"><strong>Hu, X.</strong>, et al.</div>
+        <div class="publish">Cognition</div>
+      </div>
+    </div>
+    <div class="pub">
+      <div class="pub-left">
+        <img class="pub-cover" src="{{ \"/images/500x300.png\" | relative_url }}" alt="Publication cover placeholder" />
+        <div class="pub-badge">2025</div>
+      </div>
+      <div class="pub-right">
+        <div class="title">Do Robots Need a Head and Legs? How Appearance Features Predict Robots' Perceived Social Interaction Potential</div>
+        <div class="authors"><strong>Hu, X.</strong>, et al.</div>
+        <div class="publish">ACM/IEEE HRI</div>
+      </div>
+    </div>
+  </div>
+</div>
 
 ---
 
 # <a name="experience"></a>Experience
 
-## Education
-
-**Zhejiang University**, Hangzhou, China
-M.S. in Psychology | Sep. 2024 - Jun. 2027 (Expected)
-- GPA: 4.0/4.0 (Rank: 1/60)
-- Advisors: Prof. Jifan Zhou, Prof. Mowei Shen
-
-**Southwest University**, Chongqing, China
-B.S. in Psychology | Sep. 2020 - Jun. 2024
-- GPA: 4.13/5.0 (Rank: 2/103)
-
-## Research Experience
-
-**Project Leader** | Social Cognition underlying Human-Robot Interaction
-*Zhejiang University* | Jun. 2023 - Present
-- Designed online cognitive experiments using JavaScript/HTML, collecting data from 3,000+ participants
-- Built predictive models with Python (scikit-learn, XGBoost) and applied SHAP for interpretable ML
-- Produced 6+ peer-reviewed manuscripts in psychology, robotics, and computer science
-
-**Remote Research Assistant** | LLM-Human Differences in Theory of Mind
-*The University of Hong Kong* | Oct. 2025 - Present
-- Designed dynamic grid-world Theory-of-Mind task to benchmark LLMs
-- Implemented Bayesian belief updating to compare inference trajectories between LLMs and humans
-
-**Research Assistant** | Cognitive Load in Command Decision-Making
-*Chinese Academy of Sciences* | Apr. 2023 - Aug. 2023
-- Collected eye-tracking and physiological data with Tobii and BIOPAC
-- Analyzed behavioral data with R (ANOVA, t-test)
+<div class="timeline-brief">
+  <div class="timeline-body">
+    <div class="timeline-item">
+      <div class="timeline-date">Jun. 2023 - Present</div>
+      <div class="timeline-title">Project Leader — Zhejiang University</div>
+      <div class="timeline-desc">
+        <div class="timeline-host">Social Cognition underlying Human-Robot Interaction</div>
+        <ul>
+          <li>Designed online cognitive experiments using JavaScript/HTML, collecting data from 3,000+ participants</li>
+          <li>Built predictive models with Python (scikit-learn, XGBoost) and applied SHAP for interpretable ML</li>
+          <li>Produced 6+ peer-reviewed manuscripts in psychology, robotics, and computer science</li>
+        </ul>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-date">Oct. 2025 - Present</div>
+      <div class="timeline-title">Remote Research Assistant — The University of Hong Kong</div>
+      <div class="timeline-desc">
+        <div class="timeline-host">LLM-Human Differences in Theory of Mind</div>
+        <ul>
+          <li>Designed dynamic grid-world Theory-of-Mind task to benchmark LLMs</li>
+          <li>Implemented Bayesian belief updating to compare inference trajectories between LLMs and humans</li>
+        </ul>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-date">Apr. 2023 - Aug. 2023</div>
+      <div class="timeline-title">Research Assistant — Chinese Academy of Sciences</div>
+      <div class="timeline-desc">
+        <div class="timeline-host">Cognitive Load in Command Decision-Making</div>
+        <ul>
+          <li>Collected eye-tracking and physiological data with Tobii and BIOPAC</li>
+          <li>Analyzed behavioral data with R (ANOVA, t-test)</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
 
 ## Skills
 
