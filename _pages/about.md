@@ -160,7 +160,6 @@ redirect_from:
       <div class="pub-right">
         <div class="title">Seeing through Janus' Eyes: How Humans Spontaneously Adopt Multiple Perspectives of Robot Avatars</div>
         <div class="authors"><strong>Hu, X.</strong>, et al.</div>
-        <div class="publish">International Journal of Social Robotics</div>
       </div>
     </div>
     <div class="pub">
@@ -171,7 +170,6 @@ redirect_from:
       <div class="pub-right">
         <div class="title">Causal Relationship Between Robot Perception and Behavior: A User-Centered Explainability Approach</div>
         <div class="authors"><strong>Hu, X.</strong>, et al.</div>
-        <div class="publish">International Journal of Human-Computer Interaction</div>
       </div>
     </div>
     <div class="pub">
@@ -182,7 +180,6 @@ redirect_from:
       <div class="pub-right">
         <div class="title">I'll Believe It Unless It's Too Absurd: Spontaneous Visual Perspective-Taking as Prior-Based Heuristic Inference</div>
         <div class="authors"><strong>Hu, X.</strong>, et al.</div>
-        <div class="publish">Cognition</div>
       </div>
     </div>
     <div class="pub">
@@ -193,7 +190,6 @@ redirect_from:
       <div class="pub-right">
         <div class="title">Do Robots Need a Head and Legs? How Appearance Features Predict Robots' Perceived Social Interaction Potential</div>
         <div class="authors"><strong>Hu, X.</strong>, et al.</div>
-        <div class="publish">ACM/IEEE HRI</div>
       </div>
     </div>
   </div>
