@@ -69,38 +69,47 @@ redirect_from:
 
 <aside class="news-float" aria-label="News">
   <div class="news-header">
+    <i class="fas fa-fire news-logo" aria-hidden="true"></i>
     <span class="news-title">News</span>
   </div>
   <ul class="news-list">
     <li class="news-item">
+      <span class="news-icon"><i class="fas fa-star" aria-hidden="true"></i></span>
       <span class="news-date">2025.10</span>
       <span class="news-text">Started remote research collaboration with Prof. Jianqiao Zhu at The University of Hong Kong, working on LLM-Human differences in Theory of Mind.</span>
     </li>
     <li class="news-item">
+      <span class="news-icon"><i class="fas fa-graduation-cap" aria-hidden="true"></i></span>
       <span class="news-date">2025.04</span>
       <span class="news-text">Serving as Teaching Assistant for "The Advanced Psychological Measurement" course at Zhejiang University.</span>
     </li>
     <li class="news-item">
+      <span class="news-icon"><i class="fas fa-file-lines" aria-hidden="true"></i></span>
       <span class="news-date">2025.01</span>
       <span class="news-text">Our paper "Good to see you R2-D2: Inducing spontaneous perspective-taking towards non-human agents through human-like gaze and reach" has been published in <em>Cognition</em>.</span>
     </li>
     <li class="news-item">
+      <span class="news-icon"><i class="fas fa-file-lines" aria-hidden="true"></i></span>
       <span class="news-date">2025.01</span>
       <span class="news-text">Paper "Enhancement of joint flanker effect in intergroup competition" published in <em>PsyCh Journal</em>.</span>
     </li>
     <li class="news-item">
+      <span class="news-icon"><i class="fas fa-microphone" aria-hidden="true"></i></span>
       <span class="news-date">2024.12</span>
       <span class="news-text">Oral presentation at the Annual Conference on Industrial Psychology and New Productivity.</span>
     </li>
     <li class="news-item">
+      <span class="news-icon"><i class="fas fa-certificate" aria-hidden="true"></i></span>
       <span class="news-date">2024.12</span>
       <span class="news-text">Awarded <strong>National Scholarship</strong> (2024-2025), top 1 student in college per year.</span>
     </li>
     <li class="news-item">
+      <span class="news-icon"><i class="fas fa-graduation-cap" aria-hidden="true"></i></span>
       <span class="news-date">2024.09</span>
       <span class="news-text">Started M.S. program in Psychology at Zhejiang University.</span>
     </li>
     <li class="news-item">
+      <span class="news-icon"><i class="fas fa-graduation-cap" aria-hidden="true"></i></span>
       <span class="news-date">2024.06</span>
       <span class="news-text">Graduated from Southwest University with B.S. in Psychology.</span>
     </li>
@@ -294,32 +303,63 @@ redirect_from:
   </div>
 </div>
 
-## Skills
-
-- **Statistics**: R, Python, SPSS, Mplus, Bayesian Modeling
-- **Machine Learning**: scikit-learn, XGBoost, PyTorch, SHAP
-- **Programming**: JavaScript, React, Node.js, HTML/CSS
-- **Languages**: English (GRE 159+169+4.0, IELTS 7.0), Chinese (Native)
-
----
-
-# <a id="honors"></a>Honors & Awards
-
-| Year | Award | Level |
-|------|-------|-------|
-| 2024-2025 | **National Scholarship** | National (Top 1 student in college) |
-| 2024-2025 | First-Class Academic Scholarship | University |
-| 2024 | **Excellent Undergraduate Thesis Award** | University (Top 10%) |
-| 2023 | Provincial Innovation Program | Provincial (Top 1%) |
-| 2022 | **Challenge Cup Bronze Award** | Provincial (Top 1%) |
-| 2021-2023 | First-Class Academic Scholarship | University (3 years) |
+<h2>Skills</h2>
+<ul class="skills-list">
+  <li><strong>Statistics</strong>: R, Python, SPSS, Mplus, Bayesian Modeling</li>
+  <li><strong>Machine Learning</strong>: scikit-learn, XGBoost, PyTorch, SHAP</li>
+  <li><strong>Programming</strong>: JavaScript, React, Node.js, HTML/CSS</li>
+  <li><strong>Languages</strong>: English (GRE 159+169+4.0, IELTS 7.0), Chinese (Native)</li>
+</ul>
 
 ---
 
-## Contact
+<h1 id="honors">Honors & Awards</h1>
 
-Feel free to reach out via email at [xuconghu@zju.edu.cn](mailto:xuconghu@zju.edu.cn).
+<table class="honors-table">
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Award</th>
+      <th>Level</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2024-2025</td>
+      <td><strong>National Scholarship</strong></td>
+      <td>National (Top 1 student in college)</td>
+    </tr>
+    <tr>
+      <td>2024-2025</td>
+      <td>First-Class Academic Scholarship</td>
+      <td>University</td>
+    </tr>
+    <tr>
+      <td>2024</td>
+      <td><strong>Excellent Undergraduate Thesis Award</strong></td>
+      <td>University (Top 10%)</td>
+    </tr>
+    <tr>
+      <td>2023</td>
+      <td>Provincial Innovation Program</td>
+      <td>Provincial (Top 1%)</td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td><strong>Challenge Cup Bronze Award</strong></td>
+      <td>Provincial (Top 1%)</td>
+    </tr>
+    <tr>
+      <td>2021-2023</td>
+      <td>First-Class Academic Scholarship</td>
+      <td>University (3 years)</td>
+    </tr>
+  </tbody>
+</table>
 
-**Address**: 866 Yuhangtang Road, Hangzhou, Zhejiang, 310058, China
+---
 
-[Download CV (PDF)](/files/XucongHu_CV.pdf)
+<h2>Contact</h2>
+<p>Feel free to reach out via email at <a href="mailto:xuconghu@zju.edu.cn">xuconghu@zju.edu.cn</a>.</p>
+<p><strong>Address</strong>: 866 Yuhangtang Road, Hangzhou, Zhejiang, 310058, China</p>
+<p><a href="/files/XucongHu_CV.pdf">Download CV (PDF)</a></p>
