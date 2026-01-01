@@ -113,7 +113,7 @@ redirect_from:
       <div class="pub-right">
         <div class="title">Enhancement of joint flanker effect in intergroup competition</div>
         <div class="authors">Zhao, Y., <strong>Hu, X.</strong>, Zhou, J., Shen, M., & Xu, H.</div>
-        <div class="publish">PsyCh Journal, 14(1), 94ā�?02</div>
+        <div class="publish">PsyCh Journal, 14(1), 94膩鈧?02</div>
         <div class="tags">[<a class="tag" href="https://doi.org/10.1002/pchj.12345">Paper</a>]</div>
       </div>
     </div>
@@ -164,7 +164,7 @@ redirect_from:
       <div class="pub-right">
         <div class="title">The uncanny valley effect and induced compensatory consumption behavior in language conditions</div>
         <div class="authors"><strong>Hu, X.</strong></div>
-        <div class="publish">Lecture Notes in Education Psychology and Public Media, 4, 426ā�?36 (Oral)</div>
+        <div class="publish">Lecture Notes in Education Psychology and Public Media, 4, 426膩鈧?36 (Oral)</div>
       </div>
     </div>
   </div>
