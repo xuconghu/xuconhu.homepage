@@ -67,54 +67,6 @@ redirect_from:
   </div>
 </div>
 
-<aside class="news-float" aria-label="News">
-  <div class="news-header">
-    <i class="fas fa-fire news-logo" aria-hidden="true"></i>
-    <span class="news-title">News</span>
-  </div>
-  <ul class="news-list">
-    <li class="news-item">
-      <span class="news-icon"><i class="fas fa-star" aria-hidden="true"></i></span>
-      <span class="news-date">2025.10</span>
-      <span class="news-text">Started remote research collaboration with Prof. Jianqiao Zhu at The University of Hong Kong, working on LLM-Human differences in Theory of Mind.</span>
-    </li>
-    <li class="news-item">
-      <span class="news-icon"><i class="fas fa-graduation-cap" aria-hidden="true"></i></span>
-      <span class="news-date">2025.04</span>
-      <span class="news-text">Serving as Teaching Assistant for "The Advanced Psychological Measurement" course at Zhejiang University.</span>
-    </li>
-    <li class="news-item">
-      <span class="news-icon"><i class="fas fa-file-lines" aria-hidden="true"></i></span>
-      <span class="news-date">2025.01</span>
-      <span class="news-text">Our paper "Good to see you R2-D2: Inducing spontaneous perspective-taking towards non-human agents through human-like gaze and reach" has been published in <em>Cognition</em>.</span>
-    </li>
-    <li class="news-item">
-      <span class="news-icon"><i class="fas fa-file-lines" aria-hidden="true"></i></span>
-      <span class="news-date">2025.01</span>
-      <span class="news-text">Paper "Enhancement of joint flanker effect in intergroup competition" published in <em>PsyCh Journal</em>.</span>
-    </li>
-    <li class="news-item">
-      <span class="news-icon"><i class="fas fa-microphone" aria-hidden="true"></i></span>
-      <span class="news-date">2024.12</span>
-      <span class="news-text">Oral presentation at the Annual Conference on Industrial Psychology and New Productivity.</span>
-    </li>
-    <li class="news-item">
-      <span class="news-icon"><i class="fas fa-certificate" aria-hidden="true"></i></span>
-      <span class="news-date">2024.12</span>
-      <span class="news-text">Awarded <strong>National Scholarship</strong> (2024-2025), top 1 student in college per year.</span>
-    </li>
-    <li class="news-item">
-      <span class="news-icon"><i class="fas fa-graduation-cap" aria-hidden="true"></i></span>
-      <span class="news-date">2024.09</span>
-      <span class="news-text">Started M.S. program in Psychology at Zhejiang University.</span>
-    </li>
-    <li class="news-item">
-      <span class="news-icon"><i class="fas fa-graduation-cap" aria-hidden="true"></i></span>
-      <span class="news-date">2024.06</span>
-      <span class="news-text">Graduated from Southwest University with B.S. in Psychology.</span>
-    </li>
-  </ul>
-</aside>
 
 ---
 
