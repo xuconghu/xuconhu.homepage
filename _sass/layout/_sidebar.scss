@@ -98,6 +98,9 @@
     height: 170px;
     border-radius: 50%;
     object-fit: cover;
+    display: block;
+    margin-left: -6px;
+    margin-right: auto;
 
     @include breakpoint($large) {
       padding: 5px;

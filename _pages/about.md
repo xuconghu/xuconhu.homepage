@@ -149,7 +149,7 @@ redirect_from:
   <div class="pub-list">
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ "/info/Under_Review/Seeing%20through%20Janus%27%20Eyes.jpg" | relative_url }}" alt="Seeing through Janus' Eyes cover" />
+        <img class="pub-cover" src="{{ "/info/Conference_Papers/Spontaneous%20perspective-taking%20toward.jpg" | relative_url }}" alt="Spontaneous perspective-taking cover" />
         <div class="pub-badge">2024</div>
       </div>
       <div class="pub-right">
@@ -160,13 +160,14 @@ redirect_from:
     </div>
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ "/info/Under_Review/Causal%20Relationship%20Between%20Robot.png" | relative_url }}" alt="Causal Relationship Between Robot cover" />
+        <img class="pub-cover" src="https://img.youtube.com/vi/q06qOeipxnI/hqdefault.jpg" alt="The uncanny valley effect video cover" />
         <div class="pub-badge">2022</div>
       </div>
       <div class="pub-right">
         <div class="title">The uncanny valley effect and induced compensatory consumption behavior in language conditions</div>
         <div class="authors"><strong>Hu, X.</strong></div>
         <div class="publish">Lecture Notes in Education Psychology and Public Media, 4, 426-436 (Oral)</div>
+        <div class="tags">[<a class="tag" href="https://www.youtube.com/watch?v=q06qOeipxnI" target="_blank" rel="noopener">Video</a>]</div>
       </div>
     </div>
   </div>
@@ -175,7 +176,7 @@ redirect_from:
   <div class="pub-list">
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ "/info/Under_Review/I%27ll%20Believe%20It%20Unless.svg" | relative_url }}" alt="I'll Believe It Unless cover" />
+        <img class="pub-cover" src="{{ "/info/Under_Review/Seeing%20through%20Janus%27%20Eyes.jpg" | relative_url }}" alt="Seeing through Janus' Eyes cover" />
         <div class="pub-badge">2025</div>
       </div>
       <div class="pub-right">
@@ -185,7 +186,7 @@ redirect_from:
     </div>
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ "/info/Under_Review/Social%20Affordance%20Behind%20Robots%27.GIF" | relative_url }}" alt="Social Affordance Behind Robots' cover" />
+        <img class="pub-cover" src="{{ "/info/Under_Review/Causal%20Relationship%20Between%20Robot.png" | relative_url }}" alt="Causal Relationship Between Robot cover" />
         <div class="pub-badge">2025</div>
       </div>
       <div class="pub-right">
@@ -195,7 +196,7 @@ redirect_from:
     </div>
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ "/images/500x300.png" | relative_url }}" alt="Publication cover placeholder" />
+        <img class="pub-cover" src="{{ "/info/Under_Review/I%27ll%20Believe%20It%20Unless.svg" | relative_url }}" alt="I'll Believe It Unless cover" />
         <div class="pub-badge">2025</div>
       </div>
       <div class="pub-right">
@@ -205,7 +206,7 @@ redirect_from:
     </div>
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ "/images/500x300.png" | relative_url }}" alt="Publication cover placeholder" />
+        <img class="pub-cover" src="{{ "/info/Under_Review/Social%20Affordance%20Behind%20Robots%27.GIF" | relative_url }}" alt="Social Affordance Behind Robots' cover" />
         <div class="pub-badge">2025</div>
       </div>
       <div class="pub-right">
