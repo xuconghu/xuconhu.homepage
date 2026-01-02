@@ -140,7 +140,6 @@
   position: relative;
   margin-bottom: 1.6rem;
   padding-left: 16px;
-  border-left: 4px solid #333;
   text-align: left;
 }
 
@@ -165,28 +164,21 @@
 .timeline-body::before {
   content: "";
   position: absolute;
-  left: 4px;
+  left: 0;
   top: 0;
   bottom: 0;
   width: 4px;
   background: #333;
-}
-
-.timeline-item {
-  border-left: 0;
+  transform: translateX(-2px);
 }
 
 .timeline-item:before {
   left: 0;
-  transform: translateX(-2px);
+  transform: translateX(-5px);
 }
 
 .page__content hr {
   display: none;
-}
-
-.timeline-item:before {
-  left: -8px;
 }
 
 .timeline-date {
@@ -216,15 +208,14 @@
   .timeline-item:nth-child(even) {
     width: 100%;
     text-align: left;
-    border-left: 4px solid #333;
-    border-right: 0;
     padding-left: 10px;
     margin-left: 5px;
     margin-right: 0;
   }
 
   .timeline-item:before {
-    left: -8px;
+    left: 0;
+    transform: translateX(-5px);
   }
 }
 

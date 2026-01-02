@@ -98,7 +98,6 @@ redirect_from:
 </aside>
 
 
----
 
 <h1 id="publications"><i class="fas fa-fw fa-file-lines section-icon" aria-hidden="true"></i>Publications</h1>
 
@@ -227,7 +226,6 @@ redirect_from:
   </div>
 </div>
 
----
 
 <h1 id="experience"><i class="fas fa-fw fa-briefcase section-icon" aria-hidden="true"></i>Experience</h1>
 
@@ -296,7 +294,6 @@ redirect_from:
   <li><strong>Languages</strong>: English (GRE 159+169+4.0, IELTS 7.0), Chinese (Native)</li>
 </ul>
 
----
 
 <h1 id="honors">Honors & Awards</h1>
 
@@ -342,7 +339,6 @@ redirect_from:
   </tbody>
 </table>
 
----
 
 <h2>Contact</h2>
 <p>Feel free to reach out via email at <a href="mailto:xuconghu@zju.edu.cn">xuconghu@zju.edu.cn</a>.</p>

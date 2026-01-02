@@ -33,7 +33,6 @@ author_profile: true
   </div>
 </div>
 
----
 
 ## Research Experience
 
@@ -94,7 +93,6 @@ author_profile: true
   </div>
 </div>
 
----
 
 ## Teaching Experience
 
@@ -115,7 +113,6 @@ author_profile: true
   </div>
 </div>
 
----
 
 ## Skills
 
