@@ -55,18 +55,18 @@ redirect_from:
   <ul class="news-list">
     <li class="news-item">
       <span class="news-date">2025.10</span>
-      <span class="news-text">🎉 Awarded <strong>National Scholarship</strong> (2024-2025), top 1 student in college per year!</span>
+      <span class="news-text">🎉🎉🎉 Awarded <strong>National Scholarship</strong> (2024-2025), top 1 student in college per year!</span>
       <div class="news-media">
         <img src="{{ "/info/news/National%20Scholarship.jpg" | relative_url }}" alt="National Scholarship" />
       </div>
     </li>
     <li class="news-item">
       <span class="news-date">2025.01</span>
-      <span class="news-text">Our paper "Good to see you R2-D2: Inducing spontaneous perspective-taking towards non-human agents through human-like gaze and reach" has been published in <em>Cognition</em>.</span>
+      <span class="news-text">🎉🎉🎉 Our paper "Good to see you R2-D2: Inducing spontaneous perspective-taking towards non-human agents through human-like gaze and reach" has been published in <em>Cognition</em>.</span>
     </li>
     <li class="news-item">
       <span class="news-date">2025.01</span>
-      <span class="news-text">Paper "Enhancement of joint flanker effect in intergroup competition" published in <em>PsyCh Journal</em>.</span>
+      <span class="news-text">🎉🎉🎉 Paper "Enhancement of joint flanker effect in intergroup competition" published in <em>PsyCh Journal</em>.</span>
     </li>
     <li class="news-item">
       <span class="news-date">2024.12</span>
@@ -268,7 +268,7 @@ redirect_from:
   </div>
 </div>
 
-<h1 id="honors">Honors & Awards</h1>
+<h1 id="honors"><i class="fas fa-fw fa-award section-icon" aria-hidden="true"></i>Honors & Awards</h1>
 
 <table class="honors-table">
   <thead>
@@ -297,17 +297,17 @@ redirect_from:
     <tr>
       <td>2023</td>
       <td>Provincial Innovation Program</td>
-      <td>Provincial (Top 1%)</td>
+      <td>Provincial (Top 30%)</td>
     </tr>
     <tr>
       <td>2022</td>
       <td><strong>Challenge Cup Bronze Award</strong></td>
-      <td>Provincial (Top 1%)</td>
+      <td>Provincial (Top 30%)</td>
     </tr>
     <tr>
-      <td>2021-2023</td>
+      <td>2020-2021, 2021-2022, 2022-2023</td>
       <td>First-Class Academic Scholarship</td>
-      <td>University (3 years)</td>
+      <td>University (Top 3%)</td>
     </tr>
   </tbody>
 </table>

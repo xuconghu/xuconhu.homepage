@@ -119,8 +119,8 @@
 }
 
 .edu-logo {
-  width: 40px;
-  height: 40px;
+  width: 44px;
+  height: 44px;
   object-fit: contain;
   vertical-align: middle;
   margin-left: 8px;
@@ -175,7 +175,7 @@
   content: "";
   position: absolute;
   left: 0;
-  top: 0;
+  top: 8px;
   bottom: 0;
   width: 4px;
   background: #333;
@@ -255,13 +255,13 @@
 
 .pub-left {
   float: left;
-  width: 280px;
+  width: 320px;
   text-align: center;
 }
 
 .pub-cover {
   display: block;
-  width: 260px;
+  width: 300px;
   height: 133px;
   margin: 0 auto 6px;
   border: 1px solid #8b2d22;
@@ -281,7 +281,7 @@
 
 .pub-right {
   float: right;
-  width: calc(100% - 280px);
+  width: calc(100% - 320px);
 }
 
 .pub-right > .title {
@@ -366,27 +366,22 @@
 }
 
 .news-float .news-item {
-  display: flex;
-  gap: 10px;
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.8rem;
   font-size: 0.95em;
   line-height: 1.4;
+  padding-left: 16px;
+  position: relative;
 }
 
 .news-float .news-item::before {
   content: "";
   width: 6px;
   height: 6px;
-  margin-top: 0.45em;
+  position: absolute;
+  left: 0;
+  top: 0.45em;
   border-radius: 50%;
   background: #ff7a6e;
-  flex: 0 0 6px;
-}
-
-.news-icon {
-  color: #ff7a6e;
-  margin-top: 0.1em;
-  flex: 0 0 auto;
 }
 
 .news-date {
@@ -394,6 +389,7 @@
   color: #ff7a6e;
   white-space: nowrap;
   font-size: 0.95em;
+  margin-right: 8px;
 }
 
 .news-text {
@@ -401,13 +397,13 @@
 }
 
 .news-media {
-  margin: 8px 0 0 24px;
+  margin: 8px 0 0 0;
 }
 
 .news-media img {
   display: block;
   width: 100%;
-  max-width: 280px;
+  max-width: 320px;
   border-radius: 8px;
   border: 1px solid var(--global-border-color);
 }
