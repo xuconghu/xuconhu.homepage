@@ -236,50 +236,54 @@ redirect_from:
   <div class="timeline-body">
     <div class="timeline-item">
       <div class="timeline-date">Jun. 2023 - Present</div>
-      <div class="timeline-title">Project Leader - Zhejiang University</div>
+      <div class="timeline-title">
+        <span class="timeline-org">
+          <img class="timeline-logo" src="{{ "/images/zju_logo.png" | relative_url }}" alt="Zhejiang University logo" />
+          Project Leader - Zhejiang University
+        </span>
+      </div>
       <div class="timeline-desc">
         <div class="timeline-host">Social Cognition underlying Human-Robot Interaction</div>
-        <ul>
-          <li>Designed online cognitive experiments using JavaScript/HTML, collecting data from 3,000+ participants</li>
-          <li>Built predictive models with Python (scikit-learn, XGBoost) and applied SHAP for interpretable ML</li>
-          <li>Produced 6+ peer-reviewed manuscripts in psychology, robotics, and computer science</li>
-        </ul>
+        <div class="timeline-host">Supervisor: Prof. Jifan Zhou, Prof. Mowei Shen</div>
       </div>
     </div>
     <div class="timeline-item">
       <div class="timeline-date">Oct. 2025 - Present</div>
-      <div class="timeline-title">Remote Research Assistant - The University of Hong Kong</div>
+      <div class="timeline-title">
+        <span class="timeline-org">
+          <img class="timeline-logo" src="{{ "/images/hku_logo.png" | relative_url }}" alt="The University of Hong Kong logo" />
+          Remote Research Assistant - The University of Hong Kong
+        </span>
+      </div>
       <div class="timeline-desc">
         <div class="timeline-host">LLM-Human Differences in Theory of Mind</div>
-        <ul>
-          <li>Designed dynamic grid-world Theory-of-Mind task to benchmark LLMs</li>
-          <li>Implemented Bayesian belief updating to compare inference trajectories between LLMs and humans</li>
-        </ul>
+        <div class="timeline-host">Supervisor: Prof. Jianqiao Zhu</div>
       </div>
     </div>
     <div class="timeline-item">
       <div class="timeline-date">Apr. 2023 - Aug. 2023</div>
-      <div class="timeline-title">Research Assistant - Chinese Academy of Sciences</div>
+      <div class="timeline-title">
+        <span class="timeline-org">
+          <img class="timeline-logo" src="{{ "/images/cas_logo.png" | relative_url }}" alt="Chinese Academy of Sciences logo" />
+          Research Assistant - Chinese Academy of Sciences
+        </span>
+      </div>
       <div class="timeline-desc">
         <div class="timeline-host">Cognitive Load in Command Decision-Making</div>
-        <ul>
-          <li>Collected eye-tracking and physiological data with Tobii and BIOPAC</li>
-          <li>Analyzed behavioral data with R (ANOVA, t-test)</li>
-        </ul>
+        <div class="timeline-host">Supervisor: Prof. Jingyu Zhang</div>
       </div>
     </div>
     <div class="timeline-item">
       <div class="timeline-date">Sep. 2022 - Aug. 2023</div>
-      <div class="timeline-title">Remote Research Assistant - Tsinghua University (Beijing, China)</div>
+      <div class="timeline-title">
+        <span class="timeline-org">
+          <img class="timeline-logo" src="{{ "/images/thu_logo.png" | relative_url }}" alt="Tsinghua University logo" />
+          Remote Research Assistant - Tsinghua University (Beijing, China)
+        </span>
+      </div>
       <div class="timeline-desc">
         <div class="timeline-host">Perspective-Taking toward Robots in Older Adults</div>
         <div class="timeline-host">Supervisor: Dr. Song Tong</div>
-        <ul>
-          <li>Created human-like face stimuli with varying anthropomorphism using FantaMorph</li>
-          <li>Programmed experimental tasks with PsychoPy (Python)</li>
-          <li>Recruited and assisted older adult participants from community settings in completing tests and questionnaires</li>
-          <li>Analyzed behavioral data in SPSS using ANOVA and t-tests</li>
-        </ul>
       </div>
     </div>
   </div>

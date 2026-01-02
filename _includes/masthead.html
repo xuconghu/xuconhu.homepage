@@ -11,6 +11,8 @@
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
+            {% elsif link.url | slice: 0,1 == '#' %}
+              {% assign domain = '' %}
             {% else %}
               {% assign domain = base_path %}
             {% endif %}

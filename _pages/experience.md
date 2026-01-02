@@ -56,7 +56,7 @@ author_profile: true
       <div class="timeline-date">Oct. 2025 - Present</div>
       <div class="timeline-title">
         <span class="timeline-org">
-          <img class="timeline-logo" src="{{ "/images/500x300.png" | relative_url }}" alt="The University of Hong Kong logo placeholder" />
+          <img class="timeline-logo" src="{{ "/images/hku_logo.png" | relative_url }}" alt="The University of Hong Kong logo" />
           Remote Research Assistant - The University of Hong Kong
         </span>
       </div>
@@ -69,7 +69,7 @@ author_profile: true
       <div class="timeline-date">Apr. 2023 - Aug. 2023</div>
       <div class="timeline-title">
         <span class="timeline-org">
-          <img class="timeline-logo" src="{{ "/images/500x300.png" | relative_url }}" alt="Chinese Academy of Sciences logo placeholder" />
+          <img class="timeline-logo" src="{{ "/images/cas_logo.png" | relative_url }}" alt="Chinese Academy of Sciences logo" />
           Research Assistant - Chinese Academy of Sciences
         </span>
       </div>
@@ -82,7 +82,7 @@ author_profile: true
       <div class="timeline-date">Sep. 2022 - Aug. 2023</div>
       <div class="timeline-title">
         <span class="timeline-org">
-          <img class="timeline-logo" src="{{ "/images/500x300.png" | relative_url }}" alt="Tsinghua University logo placeholder" />
+          <img class="timeline-logo" src="{{ "/images/thu_logo.png" | relative_url }}" alt="Tsinghua University logo" />
           Remote Research Assistant - Tsinghua University (Beijing, China)
         </span>
       </div>
