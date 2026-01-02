@@ -286,15 +286,6 @@ redirect_from:
   </div>
 </div>
 
-<h2>Skills</h2>
-<ul class="skills-list">
-  <li><strong>Statistics</strong>: R, Python, SPSS, Mplus, Bayesian Modeling</li>
-  <li><strong>Machine Learning</strong>: scikit-learn, XGBoost, PyTorch, SHAP</li>
-  <li><strong>Programming</strong>: JavaScript, React, Node.js, HTML/CSS</li>
-  <li><strong>Languages</strong>: English (GRE 159+169+4.0, IELTS 7.0), Chinese (Native)</li>
-</ul>
-
-
 <h1 id="honors">Honors & Awards</h1>
 
 <table class="honors-table">
