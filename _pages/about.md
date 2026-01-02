@@ -149,7 +149,7 @@ redirect_from:
   <div class="pub-list">
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ "/images/500x300.png" | relative_url }}" alt="Publication cover placeholder" />
+        <img class="pub-cover" src="{{ "/info/Under_Review/Seeing%20through%20Janus%27%20Eyes.jpg" | relative_url }}" alt="Seeing through Janus' Eyes cover" />
         <div class="pub-badge">2024</div>
       </div>
       <div class="pub-right">
@@ -160,7 +160,7 @@ redirect_from:
     </div>
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ "/images/500x300.png" | relative_url }}" alt="Publication cover placeholder" />
+        <img class="pub-cover" src="{{ "/info/Under_Review/Causal%20Relationship%20Between%20Robot.png" | relative_url }}" alt="Causal Relationship Between Robot cover" />
         <div class="pub-badge">2022</div>
       </div>
       <div class="pub-right">
@@ -175,7 +175,7 @@ redirect_from:
   <div class="pub-list">
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ "/images/500x300.png" | relative_url }}" alt="Publication cover placeholder" />
+        <img class="pub-cover" src="{{ "/info/Under_Review/I%27ll%20Believe%20It%20Unless.svg" | relative_url }}" alt="I'll Believe It Unless cover" />
         <div class="pub-badge">2025</div>
       </div>
       <div class="pub-right">
@@ -185,7 +185,7 @@ redirect_from:
     </div>
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ "/images/500x300.png" | relative_url }}" alt="Publication cover placeholder" />
+        <img class="pub-cover" src="{{ "/info/Under_Review/Social%20Affordance%20Behind%20Robots%27.GIF" | relative_url }}" alt="Social Affordance Behind Robots' cover" />
         <div class="pub-badge">2025</div>
       </div>
       <div class="pub-right">
@@ -209,7 +209,7 @@ redirect_from:
         <div class="pub-badge">2025</div>
       </div>
       <div class="pub-right">
-        <div class="title">Do Robots Need a Head and Legs? How Appearance Features Predict Robots' Perceived Social Interaction Potential</div>
+        <div class="title">Social Affordance Behind Robots' Appearance Features</div>
         <div class="authors"><strong>Hu, X.</strong>, et al.</div>
       </div>
     </div>
