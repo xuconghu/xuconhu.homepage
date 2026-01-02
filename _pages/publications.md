@@ -6,7 +6,6 @@ author_profile: true
 
 <a id="publications"></a>
 
-(\* denotes equal contribution)
 
 <div class="publications">
   <h2><i class="fas fa-fw fa-book-open section-icon" aria-hidden="true"></i>Published</h2>

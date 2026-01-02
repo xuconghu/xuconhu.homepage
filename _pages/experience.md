@@ -44,7 +44,7 @@ author_profile: true
       <div class="timeline-title">
         <span class="timeline-org">
           <img class="timeline-logo" src="{{ "/images/zju_logo.png" | relative_url }}" alt="Zhejiang University logo" />
-          Project Leader - Zhejiang University
+          Research Assistant - Zhejiang University
         </span>
       </div>
       <div class="timeline-desc">
@@ -57,7 +57,7 @@ author_profile: true
       <div class="timeline-title">
         <span class="timeline-org">
           <img class="timeline-logo" src="{{ "/images/hku_logo.png" | relative_url }}" alt="The University of Hong Kong logo" />
-          Remote Research Assistant - The University of Hong Kong
+          Research Assistant - The University of Hong Kong
         </span>
       </div>
       <div class="timeline-desc">
@@ -83,7 +83,7 @@ author_profile: true
       <div class="timeline-title">
         <span class="timeline-org">
           <img class="timeline-logo" src="{{ "/images/thu_logo.png" | relative_url }}" alt="Tsinghua University logo" />
-          Remote Research Assistant - Tsinghua University (Beijing, China)
+          Research Assistant - Tsinghua University
         </span>
       </div>
       <div class="timeline-desc">
