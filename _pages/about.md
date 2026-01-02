@@ -55,14 +55,9 @@ redirect_from:
   </div>
   <ul class="news-list">
     <li class="news-item">
-      <span class="news-icon"><i class="fas fa-star" aria-hidden="true"></i></span>
+      <span class="news-icon"><i class="fas fa-certificate" aria-hidden="true"></i></span>
       <span class="news-date">2025.10</span>
-      <span class="news-text">Started remote research collaboration with Prof. Jianqiao Zhu at The University of Hong Kong, working on LLM-Human differences in Theory of Mind.</span>
-    </li>
-    <li class="news-item">
-      <span class="news-icon"><i class="fas fa-graduation-cap" aria-hidden="true"></i></span>
-      <span class="news-date">2025.04</span>
-      <span class="news-text">Serving as Teaching Assistant for "The Advanced Psychological Measurement" course at Zhejiang University.</span>
+      <span class="news-text">Awarded <strong>National Scholarship</strong> (2024-2025), top 1 student in college per year.</span>
     </li>
     <li class="news-item">
       <span class="news-icon"><i class="fas fa-file-lines" aria-hidden="true"></i></span>
@@ -78,11 +73,6 @@ redirect_from:
       <span class="news-icon"><i class="fas fa-microphone" aria-hidden="true"></i></span>
       <span class="news-date">2024.12</span>
       <span class="news-text">Oral presentation at the Annual Conference on Industrial Psychology and New Productivity.</span>
-    </li>
-    <li class="news-item">
-      <span class="news-icon"><i class="fas fa-certificate" aria-hidden="true"></i></span>
-      <span class="news-date">2024.12</span>
-      <span class="news-text">Awarded <strong>National Scholarship</strong> (2024-2025), top 1 student in college per year.</span>
     </li>
     <li class="news-item">
       <span class="news-icon"><i class="fas fa-graduation-cap" aria-hidden="true"></i></span>

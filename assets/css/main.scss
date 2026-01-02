@@ -185,7 +185,7 @@
 .timeline-item:before {
   left: 0;
   transform: translateX(-5px);
-  top: 6px;
+  top: 0.35em;
 }
 
 .page__content hr {
@@ -255,7 +255,7 @@
 
 .pub-left {
   float: left;
-  width: calc(30% - 10px);
+  width: 520px;
   text-align: center;
 }
 
@@ -266,6 +266,7 @@
   margin: 0 auto 6px;
   border: 1px solid #8b2d22;
   object-fit: cover;
+  max-width: none;
 }
 
 .pub-badge {
@@ -280,7 +281,7 @@
 
 .pub-right {
   float: right;
-  width: calc(70% - 10px);
+  width: calc(100% - 520px);
 }
 
 .pub-right > .title {
@@ -317,6 +318,29 @@
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.2);
   z-index: 20;
   font-size: 0.9em;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(139, 45, 34, 0.55) transparent;
+}
+
+.news-float::-webkit-scrollbar {
+  width: 10px;
+}
+
+.news-float::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.news-float::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, rgba(139, 45, 34, 0.85), rgba(139, 45, 34, 0.35));
+  border-radius: 999px;
+  border: 2px solid transparent;
+  background-clip: padding-box;
+}
+
+.news-float::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, rgba(139, 45, 34, 1), rgba(139, 45, 34, 0.55));
+  border: 2px solid transparent;
+  background-clip: padding-box;
 }
 
 .news-header {
@@ -411,13 +435,4 @@
   padding: 8px 6px;
   text-align: left;
   vertical-align: top;
-}
-
-@media screen and (max-width: 800px) {
-  .pub-left,
-  .pub-right {
-    float: none;
-    width: 100%;
-    margin: 0.25rem 0;
-  }
 }
