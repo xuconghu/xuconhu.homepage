@@ -12,7 +12,7 @@ author_profile: true
   <div class="pub-list">
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ "/info/cognition/cognition.jpg" | relative_url }}" alt="Cognition cover" />
+        <div class="pub-cover pub-cover-cycle" role="img" aria-label="Cognition cover" style="--cycle-1: url('{{ "/info/cognition/cognition_1.GIF" | relative_url }}'); --cycle-2: url('{{ "/info/cognition/cognition_2.GIF" | relative_url }}'); --cycle-3: url('{{ "/info/cognition/cognition_3.GIF" | relative_url }}');"></div>
         <div class="pub-badge">2025</div>
       </div>
       <div class="pub-right">
@@ -82,7 +82,7 @@ author_profile: true
         <div class="title">The uncanny valley effect and induced compensatory consumption behavior in language conditions</div>
         <div class="authors"><strong>Hu, X.</strong></div>
         <div class="publish">Lecture Notes in Education Psychology and Public Media, 4, 426-436 (Oral Presentation)</div>
-        <div class="tags">[<a class="tag" href="https://www.youtube.com/watch?v=q06qOeipxnI" target="_blank" rel="noopener">Video</a>]</div>
+        <div class="tags">[<a class="tag" href="{{ "/info/Conference_Papers/The%20uncanny%20valley%20effect%20and%20induced%20compensatory%20consumption%20behavior%20in%20language.pdf" | relative_url }}">Paper</a>] [<a class="tag" href="https://www.youtube.com/watch?v=q06qOeipxnI" target="_blank" rel="noopener">Video</a>]</div>
       </div>
     </div>
   </div>

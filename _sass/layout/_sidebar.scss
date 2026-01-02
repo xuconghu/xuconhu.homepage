@@ -99,9 +99,9 @@
     border-radius: 50%;
     object-fit: cover;
     display: block;
-    margin-left: -16px;
+    margin-left: -12px;
     margin-right: auto;
-    object-position: 42% 50%;
+    object-position: 58% 50%;
 
     @include breakpoint($large) {
       padding: 5px;

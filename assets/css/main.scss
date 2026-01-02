@@ -135,6 +135,12 @@
   padding: 2px;
 }
 
+.edu-advisors,
+.edu-advisors a {
+  color: var(--accent-blue);
+  text-decoration: underline;
+}
+
 .timeline-brief {
   margin: 1rem 0 2rem;
   font-size: 1rem;
@@ -230,6 +236,11 @@
   color: #555;
 }
 
+.timeline-host a {
+  color: var(--accent-blue);
+  text-decoration: underline;
+}
+
 @media screen and (max-width: 700px) {
   .timeline-item,
   .timeline-item:nth-child(odd),
@@ -268,19 +279,42 @@
 
 .pub-left {
   float: left;
-  width: 260px;
+  width: 270px;
   text-align: center;
 }
 
 .pub-cover {
   display: block;
-  width: 240px;
-  height: 133px;
+  width: 250px;
+  height: 140px;
   margin: 0 auto 6px;
   border: 1px solid var(--accent-red);
   object-fit: contain;
   max-width: none;
   background: #fff;
+}
+
+.pub-cover-cycle {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: var(--cycle-1);
+  animation: cognition-cycle 9s infinite;
+}
+
+@keyframes cognition-cycle {
+  0%,
+  33% {
+    background-image: var(--cycle-1);
+  }
+  34%,
+  66% {
+    background-image: var(--cycle-2);
+  }
+  67%,
+  100% {
+    background-image: var(--cycle-3);
+  }
 }
 
 .pub-badge {
@@ -295,7 +329,7 @@
 
 .pub-right {
   float: right;
-  width: calc(100% - 260px);
+  width: calc(100% - 270px);
 }
 
 .pub-right > .title {
@@ -313,7 +347,7 @@
 }
 
 .pub-right > .tags > .tag {
-  color: #d98b8b;
+  color: var(--accent-red);
   font-weight: 500;
   font-size: 0.9em;
 }
