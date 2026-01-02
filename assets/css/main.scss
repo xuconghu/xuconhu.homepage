@@ -294,6 +294,12 @@
   background: #fff;
 }
 
+.pub--wide-cover .pub-cover {
+  width: 300px;
+  height: 170px;
+  object-fit: cover;
+}
+
 .pub-cover-cycle {
   background-size: contain;
   background-repeat: no-repeat;
@@ -344,6 +350,11 @@
   color: var(--accent-blue);
   font-weight: 500;
   font-size: 0.95em;
+}
+
+.pub-right > .publish .publish-icon {
+  margin-left: 6px;
+  color: var(--accent-red);
 }
 
 .pub-right > .tags > .tag {

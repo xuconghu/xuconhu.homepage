@@ -10,7 +10,7 @@ author_profile: true
 <div class="publications">
   <h2><i class="fas fa-fw fa-book-open section-icon" aria-hidden="true"></i>Journal Articles</h2>
   <div class="pub-list">
-    <div class="pub">
+    <div class="pub pub--wide-cover">
       <div class="pub-left">
         <div class="pub-cover pub-cover-cycle" role="img" aria-label="Cognition cover" style="--cycle-1: url('{{ "/info/cognition/cognition_1.GIF" | relative_url }}'); --cycle-2: url('{{ "/info/cognition/cognition_2.GIF" | relative_url }}'); --cycle-3: url('{{ "/info/cognition/cognition_3.GIF" | relative_url }}');"></div>
         <div class="pub-badge">2025</div>
@@ -22,7 +22,7 @@ author_profile: true
         <div class="tags">[<a class="tag" href="{{ "/info/cognition/Good%20to%20see%20you%20R2-D2%20Inducing%20spontaneous%20perspective-taking%20towards%20non-human%20agents%20through%20human-like%20gaze%20and%20reach.pdf" | relative_url }}">Paper</a>]</div>
       </div>
     </div>
-    <div class="pub">
+    <div class="pub pub--wide-cover">
       <div class="pub-left">
         <img class="pub-cover" src="{{ "/info/Psych_journal/psych_journal.jpg" | relative_url }}" alt="PsyCh Journal cover" />
         <div class="pub-badge">2025</div>
@@ -34,7 +34,7 @@ author_profile: true
         <div class="tags">[<a class="tag" href="{{ "/info/Psych_journal/PsyCh%20Journal%20-%202024%20-%20Zhao%20-%20Enhancement%20of%20joint%20flanker%20effect%20in%20intergroup%20competition.pdf" | relative_url }}">Paper</a>]</div>
       </div>
     </div>
-    <div class="pub">
+    <div class="pub pub--wide-cover">
       <div class="pub-left">
         <img class="pub-cover" src="{{ "/info/behavioal_sciences/behavioal_sciences.jpg" | relative_url }}" alt="Behavioral Sciences cover" />
         <div class="pub-badge">2023</div>
@@ -70,7 +70,7 @@ author_profile: true
       <div class="pub-right">
         <div class="title">Spontaneous perspective-taking toward multi-view robots: Evidence supporting the social agent model</div>
         <div class="authors"><strong>Hu, X.</strong>, Zhou, J., & Shen, M.</div>
-        <div class="publish">Annual Conference on Industrial Psychology and New Productivity (Oral Presentation)</div>
+        <div class="publish">Annual Conference on Industrial Psychology and New Productivity (Oral, Shanghai, China) <span class="publish-icon" aria-hidden="true"><i class="fas fa-map-marker-alt"></i></span></div>
       </div>
     </div>
     <div class="pub">

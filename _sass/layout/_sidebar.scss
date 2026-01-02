@@ -99,9 +99,9 @@
     border-radius: 50%;
     object-fit: cover;
     display: block;
-    margin-left: -12px;
+    margin-left: -4px;
     margin-right: auto;
-    object-position: 58% 50%;
+    object-position: 62% 50%;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -113,7 +113,7 @@
 .author__content {
   display: table-cell;
   vertical-align: top;
-  padding-left: 28px;
+  padding-left: 32px;
   padding-right: 25px;
   line-height: 1;
 
@@ -213,7 +213,7 @@
     border: 0;
     background: transparent;
     box-shadow: none;
-    margin-left: 12px;
+    margin-left: 16px;
   }
 
   &:before {
