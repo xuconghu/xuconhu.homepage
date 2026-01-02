@@ -8,54 +8,54 @@ author_profile: true
 
 
 <div class="publications">
-  <h2><i class="fas fa-fw fa-book-open section-icon" aria-hidden="true"></i>Published</h2>
+  <h2><i class="fas fa-fw fa-book-open section-icon" aria-hidden="true"></i>Journal Articles</h2>
   <div class="pub-list">
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ "/images/500x300.png" | relative_url }}" alt="Publication cover placeholder" />
+        <img class="pub-cover" src="{{ "/info/cognition/cognition.jpg" | relative_url }}" alt="Cognition cover" />
         <div class="pub-badge">2025</div>
       </div>
       <div class="pub-right">
         <div class="title">Good to see you R2-D2: Inducing spontaneous perspective-taking towards non-human agents through human-like gaze and reach</div>
         <div class="authors"><strong>Hu, X.</strong>, Xu, H., Chen, H., Shen, M., & Zhou, J.</div>
         <div class="publish">Cognition, 259, 106101</div>
-        <div class="tags">[<a class="tag" href="https://doi.org/10.1016/j.cognition.2025.106101">Paper</a>]</div>
+        <div class="tags">[<a class="tag" href="{{ "/info/cognition/Good%20to%20see%20you%20R2-D2%20Inducing%20spontaneous%20perspective-taking%20towards%20non-human%20agents%20through%20human-like%20gaze%20and%20reach.pdf" | relative_url }}">Paper</a>]</div>
       </div>
     </div>
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ "/images/500x300.png" | relative_url }}" alt="Publication cover placeholder" />
+        <img class="pub-cover" src="{{ "/info/Psych_journal/psych_journal.jpg" | relative_url }}" alt="PsyCh Journal cover" />
         <div class="pub-badge">2025</div>
       </div>
       <div class="pub-right">
         <div class="title">Enhancement of joint flanker effect in intergroup competition</div>
         <div class="authors">Zhao, Y., <strong>Hu, X.</strong>, Zhou, J., Shen, M., & Xu, H.</div>
         <div class="publish">PsyCh Journal, 14(1), 94-102</div>
-        <div class="tags">[<a class="tag" href="https://doi.org/10.1002/pchj.12345">Paper</a>]</div>
+        <div class="tags">[<a class="tag" href="{{ "/info/Psych_journal/PsyCh%20Journal%20-%202024%20-%20Zhao%20-%20Enhancement%20of%20joint%20flanker%20effect%20in%20intergroup%20competition.pdf" | relative_url }}">Paper</a>]</div>
       </div>
     </div>
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ "/images/500x300.png" | relative_url }}" alt="Publication cover placeholder" />
+        <img class="pub-cover" src="{{ "/info/behavioal_sciences/behavioal_sciences.jpg" | relative_url }}" alt="Behavioral Sciences cover" />
         <div class="pub-badge">2023</div>
       </div>
       <div class="pub-right">
         <div class="title">Effects of robot animacy and emotional expressions on perspective-taking abilities: a comparative study across age groups</div>
         <div class="authors"><strong>Hu, X.</strong>, & Tong, S.</div>
         <div class="publish">Behavioral Sciences, 13(9), 728</div>
-        <div class="tags">[<a class="tag" href="https://doi.org/10.3390/bs13090728">Paper</a>]</div>
+        <div class="tags">[<a class="tag" href="{{ "/info/behavioal_sciences/Effects%20of%20Robot%20Animacy%20and%20Emotional%20Expressions%20on%20Perspective-Taking%20Abilities_%20A%20Comparative%20Study%20across%20Age%20Groups.pdf" | relative_url }}">Paper</a>]</div>
       </div>
     </div>
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ "/images/500x300.png" | relative_url }}" alt="Publication cover placeholder" />
+        <img class="pub-cover" src="{{ "/info/Frontiers_in_psychology/Frontiers_in_psychology.jpg" | relative_url }}" alt="Frontiers in Psychology cover" />
         <div class="pub-badge">2022</div>
       </div>
       <div class="pub-right">
         <div class="title">Face beauty or soul beauty? The influence of facial attractiveness and moral judgment on pain empathy</div>
         <div class="authors">Zhu, J., Yang, Z., Ma, R., Yin, L., & <strong>Hu, X.</strong></div>
         <div class="publish">Frontiers in Psychology, 13, 990637</div>
-        <div class="tags">[<a class="tag" href="https://doi.org/10.3389/fpsyg.2022.990637">Paper</a>]</div>
+        <div class="tags">[<a class="tag" href="{{ "/info/Frontiers_in_psychology/Face%20beauty%20or%20soul%20beauty_%20The%20influence%20of%20facial%20attractiveness%20and%20moral%20judgment%20on%20pain%20empathy.pdf" | relative_url }}">Paper</a>]</div>
       </div>
     </div>
   </div>
