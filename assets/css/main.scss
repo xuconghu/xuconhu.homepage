@@ -75,7 +75,7 @@
 }
 
 .about-list {
-  margin-left: 0;
+  margin-left: -8px;
 }
 
 .edu-item {
@@ -255,13 +255,13 @@
 
 .pub-left {
   float: left;
-  width: 240px;
+  width: 280px;
   text-align: center;
 }
 
 .pub-cover {
   display: block;
-  width: 220px;
+  width: 260px;
   height: 133px;
   margin: 0 auto 6px;
   border: 1px solid #8b2d22;
@@ -281,7 +281,7 @@
 
 .pub-right {
   float: right;
-  width: calc(100% - 240px);
+  width: calc(100% - 280px);
 }
 
 .pub-right > .title {
@@ -398,6 +398,18 @@
 
 .news-text {
   color: var(--global-text-color);
+}
+
+.news-media {
+  margin: 8px 0 0 24px;
+}
+
+.news-media img {
+  display: block;
+  width: 100%;
+  max-width: 280px;
+  border-radius: 8px;
+  border: 1px solid var(--global-border-color);
 }
 
 @media screen and (max-width: 900px) {

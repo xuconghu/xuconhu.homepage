@@ -50,39 +50,30 @@ redirect_from:
 
 <aside class="news-float" aria-label="News">
   <div class="news-header">
-    <i class="fas fa-fire news-logo" aria-hidden="true"></i>
     <span class="news-title">News</span>
   </div>
   <ul class="news-list">
     <li class="news-item">
-      <span class="news-icon"><i class="fas fa-certificate" aria-hidden="true"></i></span>
       <span class="news-date">2025.10</span>
-      <span class="news-text">Awarded <strong>National Scholarship</strong> (2024-2025), top 1 student in college per year.</span>
+      <span class="news-text">🎉 Awarded <strong>National Scholarship</strong> (2024-2025), top 1 student in college per year!</span>
+      <div class="news-media">
+        <img src="{{ "/info/news/National%20Scholarship.jpg" | relative_url }}" alt="National Scholarship" />
+      </div>
     </li>
     <li class="news-item">
-      <span class="news-icon"><i class="fas fa-file-lines" aria-hidden="true"></i></span>
       <span class="news-date">2025.01</span>
       <span class="news-text">Our paper "Good to see you R2-D2: Inducing spontaneous perspective-taking towards non-human agents through human-like gaze and reach" has been published in <em>Cognition</em>.</span>
     </li>
     <li class="news-item">
-      <span class="news-icon"><i class="fas fa-file-lines" aria-hidden="true"></i></span>
       <span class="news-date">2025.01</span>
       <span class="news-text">Paper "Enhancement of joint flanker effect in intergroup competition" published in <em>PsyCh Journal</em>.</span>
     </li>
     <li class="news-item">
-      <span class="news-icon"><i class="fas fa-microphone" aria-hidden="true"></i></span>
       <span class="news-date">2024.12</span>
-      <span class="news-text">Oral presentation at the Annual Conference on Industrial Psychology and New Productivity.</span>
-    </li>
-    <li class="news-item">
-      <span class="news-icon"><i class="fas fa-graduation-cap" aria-hidden="true"></i></span>
-      <span class="news-date">2024.09</span>
-      <span class="news-text">Started M.S. program in Psychology at Zhejiang University.</span>
-    </li>
-    <li class="news-item">
-      <span class="news-icon"><i class="fas fa-graduation-cap" aria-hidden="true"></i></span>
-      <span class="news-date">2024.06</span>
-      <span class="news-text">Graduated from Southwest University with B.S. in Psychology.</span>
+      <span class="news-text">🎤 Oral presentation at the Annual Conference on Industrial Psychology and New Productivity!</span>
+      <div class="news-media">
+        <img src="{{ "/info/news/Annual%20Conference%20on%20Industrial%20Psychology%20and%20New%20Productivity.jpg" | relative_url }}" alt="Annual Conference on Industrial Psychology and New Productivity" />
+      </div>
     </li>
   </ul>
 </aside>
