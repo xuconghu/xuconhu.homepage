@@ -185,6 +185,7 @@
 .timeline-item:before {
   left: 0;
   transform: translateX(-5px);
+  top: 6px;
 }
 
 .page__content hr {
@@ -197,6 +198,7 @@
   font-size: 0.9rem;
   font-weight: 600;
   color: #2f5e9d;
+  line-height: 1.2;
 }
 
 .timeline-title {
