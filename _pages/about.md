@@ -12,7 +12,7 @@ redirect_from:
 <div class="about-page">
   <div class="about-top">
     <div class="about-main">
-    <p>I am a Master's student in Psychology at <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>, advised by <a href="mailto:jifanzhou@zju.edu.cn">Prof. Jifan Zhou</a> and <a href="mailto:mwshen@zju.edu.cn">Prof. Mowei Shen</a>. My research focuses on <strong>social cognition underlying human-robot interaction</strong>, exploring how humans perceive and interact with artificial agents.</p>
+    <p>I am a Master's student in Psychology at <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>, advised by <a href="https://person.zju.edu.cn/en/jifanzhou" target="_blank" rel="noopener">Prof. Jifan Zhou</a> and <a href="https://person.zju.edu.cn/moweishen" target="_blank" rel="noopener">Prof. Mowei Shen</a>. My research focuses on <strong>social cognition underlying human-robot interaction</strong>, exploring how humans perceive and interact with artificial agents.</p>
     <p>Prior to this, I received my B.S. in Psychology from <a href="http://www.swu.edu.cn/">Southwest University</a> in 2024, where I graduated with honors (ranked 2/103).</p>
 
     <div class="about-split">
@@ -33,7 +33,7 @@ redirect_from:
           </div>
           <div class="edu-location">Hangzhou, China</div>
           <div class="edu-meta">M.S. in Psychology | Sep. 2024 - Jun. 2027 (Expected)</div>
-          <div class="edu-meta edu-advisors">Advisors: Prof. Jifan Zhou, Prof. Mowei Shen</div>
+          <div class="edu-meta edu-advisors">Advisors: <a href="https://person.zju.edu.cn/en/jifanzhou" target="_blank" rel="noopener">Prof. Jifan Zhou</a>, <a href="https://person.zju.edu.cn/moweishen" target="_blank" rel="noopener">Prof. Mowei Shen</a></div>
         </div>
         <div class="edu-item">
           <div class="edu-school">
@@ -50,6 +50,7 @@ redirect_from:
 
 <aside class="news-float" aria-label="News">
   <div class="news-header">
+    <i class="fas fa-fire news-logo" aria-hidden="true"></i>
     <span class="news-title">News</span>
   </div>
   <ul class="news-list">
@@ -61,11 +62,11 @@ redirect_from:
       </div>
     </li>
     <li class="news-item">
-      <span class="news-date">2025.01</span>
+      <span class="news-date">2025.03</span>
       <span class="news-text">🎉🎉🎉 Our paper "Good to see you R2-D2: Inducing spontaneous perspective-taking towards non-human agents through human-like gaze and reach" has been published in <em>Cognition</em>.</span>
     </li>
     <li class="news-item">
-      <span class="news-date">2025.01</span>
+      <span class="news-date">2025.02</span>
       <span class="news-text">🎉🎉🎉 Paper "Enhancement of joint flanker effect in intergroup competition" published in <em>PsyCh Journal</em>.</span>
     </li>
     <li class="news-item">
@@ -223,7 +224,7 @@ redirect_from:
       </div>
       <div class="timeline-desc">
         <div class="timeline-host">Social Cognition underlying Human-Robot Interaction</div>
-        <div class="timeline-host">Supervisor: Prof. Jifan Zhou, Prof. Mowei Shen</div>
+        <div class="timeline-host">Supervisor: <a href="https://person.zju.edu.cn/en/jifanzhou" target="_blank" rel="noopener">Prof. Jifan Zhou</a>, <a href="https://person.zju.edu.cn/moweishen" target="_blank" rel="noopener">Prof. Mowei Shen</a></div>
       </div>
     </div>
     <div class="timeline-item">
@@ -236,7 +237,7 @@ redirect_from:
       </div>
       <div class="timeline-desc">
         <div class="timeline-host">LLM-Human Differences in Theory of Mind</div>
-        <div class="timeline-host">Supervisor: Prof. Jianqiao Zhu</div>
+        <div class="timeline-host">Supervisor: <a href="https://sites.google.com/view/zhujq" target="_blank" rel="noopener">Prof. Jianqiao Zhu</a></div>
       </div>
     </div>
     <div class="timeline-item">
@@ -249,7 +250,7 @@ redirect_from:
       </div>
       <div class="timeline-desc">
         <div class="timeline-host">Cognitive Load in Command Decision-Making</div>
-        <div class="timeline-host">Supervisor: Prof. Jingyu Zhang</div>
+        <div class="timeline-host">Supervisor: <a href="http://english.psych.cas.cn/sourcedb/epsychexpert/202310/t20231030_422229.html" target="_blank" rel="noopener">Prof. Jingyu Zhang</a></div>
       </div>
     </div>
     <div class="timeline-item">
@@ -262,7 +263,7 @@ redirect_from:
       </div>
       <div class="timeline-desc">
         <div class="timeline-host">Perspective-Taking toward Robots in Older Adults</div>
-        <div class="timeline-host">Supervisor: Dr. Song Tong</div>
+        <div class="timeline-host">Supervisor: <a href="https://fas.bnu.edu.cn/jyjg/xsgk/xlx1/xlxssz/xlzj/ccfffc333ba54bd0a38095be2963ee0e.htm" target="_blank" rel="noopener">Dr. Song Tong</a></div>
       </div>
     </div>
   </div>

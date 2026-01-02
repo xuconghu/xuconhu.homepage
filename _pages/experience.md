@@ -14,7 +14,7 @@ author_profile: true
       </div>
       <div class="edu-location">Hangzhou, China</div>
       <div class="edu-meta">M.S. in Psychology | Sep. 2024 - Jun. 2027 (Expected)</div>
-      <div class="edu-meta edu-advisors">Advisors: Prof. Jifan Zhou, Prof. Mowei Shen</div>
+      <div class="edu-meta edu-advisors">Advisors: <a href="https://person.zju.edu.cn/en/jifanzhou" target="_blank" rel="noopener">Prof. Jifan Zhou</a>, <a href="https://person.zju.edu.cn/moweishen" target="_blank" rel="noopener">Prof. Mowei Shen</a></div>
     </div>
     <div class="edu-item">
       <div class="edu-school">
@@ -48,7 +48,7 @@ author_profile: true
       </div>
       <div class="timeline-desc">
         <div class="timeline-host">Social Cognition underlying Human-Robot Interaction</div>
-        <div class="timeline-host">Supervisor: Prof. Jifan Zhou, Prof. Mowei Shen</div>
+        <div class="timeline-host">Supervisor: <a href="https://person.zju.edu.cn/en/jifanzhou" target="_blank" rel="noopener">Prof. Jifan Zhou</a>, <a href="https://person.zju.edu.cn/moweishen" target="_blank" rel="noopener">Prof. Mowei Shen</a></div>
       </div>
     </div>
     <div class="timeline-item">
@@ -61,7 +61,7 @@ author_profile: true
       </div>
       <div class="timeline-desc">
         <div class="timeline-host">LLM-Human Differences in Theory of Mind</div>
-        <div class="timeline-host">Supervisor: Prof. Jianqiao Zhu</div>
+        <div class="timeline-host">Supervisor: <a href="https://sites.google.com/view/zhujq" target="_blank" rel="noopener">Prof. Jianqiao Zhu</a></div>
       </div>
     </div>
     <div class="timeline-item">
@@ -74,7 +74,7 @@ author_profile: true
       </div>
       <div class="timeline-desc">
         <div class="timeline-host">Cognitive Load in Command Decision-Making</div>
-        <div class="timeline-host">Supervisor: Prof. Jingyu Zhang</div>
+        <div class="timeline-host">Supervisor: <a href="http://english.psych.cas.cn/sourcedb/epsychexpert/202310/t20231030_422229.html" target="_blank" rel="noopener">Prof. Jingyu Zhang</a></div>
       </div>
     </div>
     <div class="timeline-item">
@@ -87,7 +87,7 @@ author_profile: true
       </div>
       <div class="timeline-desc">
         <div class="timeline-host">Perspective-Taking toward Robots in Older Adults</div>
-        <div class="timeline-host">Supervisor: Dr. Song Tong</div>
+        <div class="timeline-host">Supervisor: <a href="https://fas.bnu.edu.cn/jyjg/xsgk/xlx1/xlxssz/xlzj/ccfffc333ba54bd0a38095be2963ee0e.htm" target="_blank" rel="noopener">Dr. Song Tong</a></div>
       </div>
     </div>
   </div>
