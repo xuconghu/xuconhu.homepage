@@ -255,14 +255,14 @@
 
 .pub-left {
   float: left;
-  width: 270px;
+  width: 360px;
   text-align: center;
 }
 
 .pub-cover {
   display: block;
-  width: 250px;
-  height: 200px;
+  width: 333px;
+  height: 267px;
   margin: 0 auto 6px;
   border: 1px solid #8b2d22;
   object-fit: cover;
@@ -281,7 +281,7 @@
 
 .pub-right {
   float: right;
-  width: calc(100% - 270px);
+  width: calc(100% - 360px);
 }
 
 .pub-right > .title {
