@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "👋 About Me"
 author_profile: true
 redirect_from:
   - /about/
@@ -12,7 +12,7 @@ redirect_from:
 <div class="about-page">
   <div class="about-top">
     <div class="about-main">
-    <p>👋 I am a Master's student in Psychology at <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>, advised by <a href="https://person.zju.edu.cn/en/jifanzhou" target="_blank" rel="noopener">Prof. Jifan Zhou</a> (Young Changjiang Scholar) and <a href="https://person.zju.edu.cn/moweishen" target="_blank" rel="noopener">Prof. Mowei Shen</a> (Changjiang Distinguished Professor). I have published multiple first-author papers in top international journals and conferences in psychology and CS, including <em>Cognition</em>, <em>ACM/IEEE HRI</em>, etc., with substantial work currently under review.</p>
+    <p>I am a Master's student in Psychology at <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>, advised by <a href="https://person.zju.edu.cn/en/jifanzhou" target="_blank" rel="noopener">Prof. Jifan Zhou</a> (Young Changjiang Scholar) and <a href="https://person.zju.edu.cn/moweishen" target="_blank" rel="noopener">Prof. Mowei Shen</a> (Changjiang Distinguished Professor). I have published multiple first-author papers in top international journals and conferences in psychology and CS, including <em>Cognition</em>, <em>ACM/IEEE HRI</em>, etc., with substantial work currently under review.</p>
     <p>My research interests are broad, focusing on how intelligent systems (robots, LLMs, etc.) can be endowed with minds—through large-scale online behavioral experiments in human-machine interaction and cognitive modeling. Recently, my work centers on <strong>test-time optimization in LLM reasoning</strong>.</p>
 
     <div class="about-split">
@@ -145,7 +145,7 @@ redirect_from:
   <div class="pub-list">
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ "/info/Conference_Papers/RoSIP.jpg" | relative_url }}" alt="RoSIP cover" />
+        <img class="pub-cover" src="{{ "/info/Under_Review/Social%20Affordance%20Behind%20Robots%27.GIF" | relative_url }}" alt="RoSIP cover" />
         <div class="pub-badge">2026</div>
       </div>
       <div class="pub-right">
@@ -213,12 +213,13 @@ redirect_from:
     </div>
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ "/info/Under_Review/Social%20Affordance%20Behind%20Robots%27.GIF" | relative_url }}" alt="Social Affordance Behind Robots' cover" />
-        <div class="pub-badge">2025</div>
+        <img class="pub-cover" src="{{ "/info/Under_Review/Simulated%20Annealing.jpg" | relative_url }}" alt="Simulated Annealing cover" />
+        <div class="pub-badge">2026</div>
       </div>
       <div class="pub-right">
-        <div class="title">Social Affordance Behind Robots' Appearance Features</div>
-        <div class="authors"><strong>Hu, X.</strong>, et al.</div>
+        <div class="title">Simulated Annealing Enhances Theory-of-Mind Reasoning in Autoregressive Language Models</div>
+        <div class="authors"><strong>Hu, X.</strong>, & Zhu, J.</div>
+        <div class="tags">[<a class="tag" href="#">arXiv</a>]</div>
       </div>
     </div>
   </div>
