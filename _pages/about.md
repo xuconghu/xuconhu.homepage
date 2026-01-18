@@ -9,6 +9,8 @@ redirect_from:
 
 <a id="about"></a>
 
+<h1>👋 About Me</h1>
+
 <div class="about-page">
   <div class="about-top">
     <div class="about-main">
