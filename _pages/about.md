@@ -12,16 +12,16 @@ redirect_from:
 <div class="about-page">
   <div class="about-top">
     <div class="about-main">
-    <p>I am a Master's student in Psychology at <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>, advised by <a href="https://person.zju.edu.cn/en/jifanzhou" target="_blank" rel="noopener">Prof. Jifan Zhou</a> and <a href="https://person.zju.edu.cn/moweishen" target="_blank" rel="noopener">Prof. Mowei Shen</a>. My research focuses on <strong>social cognition underlying human-robot interaction</strong>, exploring how humans perceive and interact with artificial agents.</p>
-    <p>Prior to this, I received my B.S. in Psychology from <a href="http://www.swu.edu.cn/">Southwest University</a> in 2024, where I graduated with honors (ranked 2/103).</p>
+    <p>👋 I am a Master's student in Psychology at <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>, advised by <a href="https://person.zju.edu.cn/en/jifanzhou" target="_blank" rel="noopener">Prof. Jifan Zhou</a> (Young Changjiang Scholar) and <a href="https://person.zju.edu.cn/moweishen" target="_blank" rel="noopener">Prof. Mowei Shen</a> (Changjiang Distinguished Professor). I have published multiple first-author papers in top international journals and conferences in psychology and CS, including <em>Cognition</em>, <em>ACM/IEEE HRI</em>, etc., with substantial work currently under review.</p>
+    <p>My research interests are broad, focusing on how intelligent systems (robots, LLMs, etc.) can be endowed with minds—through large-scale online behavioral experiments in human-machine interaction and cognitive modeling. Recently, my work centers on <strong>test-time optimization in LLM reasoning</strong>.</p>
 
     <div class="about-split">
       <div class="about-col">
         <h2 id="interests"><i class="fas fa-fw fa-lightbulb section-icon" aria-hidden="true"></i>Interests</h2>
         <ul class="about-list">
-          <li><strong>Human-Robot Interaction</strong>: Understanding how humans spontaneously adopt perspectives of non-human agents</li>
-          <li><strong>Social Cognition</strong>: Investigating the cognitive mechanisms behind human-agent social interactions</li>
-          <li><strong>Cognitive Modeling</strong>: Applying computational approaches (Bayesian modeling, machine learning) to understand human cognition</li>
+          <li><strong>Human-Agent Interaction</strong>: Understanding the psychological processes underlying human interactions with intelligent systems (robots, LLMs), including perspective-taking, trust, and social perception</li>
+          <li><strong>Social & Visual Cognition</strong>: Investigating mechanisms underlying social cognitive processes (e.g., joint attention) and visual processing (e.g., appearance-based affordance)</li>
+          <li><strong>LLM Optimization</strong>: Identifying LLM-human cognitive gaps and enhancing LLM reasoning via psychology-informed computational methods (e.g., test-time optimization)</li>
         </ul>
       </div>
       <div class="about-col">
@@ -33,7 +33,7 @@ redirect_from:
           </div>
           <div class="edu-location">Hangzhou, China</div>
           <div class="edu-meta">M.S. in Psychology | Sep. 2024 - Jun. 2027 (Expected)</div>
-          <div class="edu-meta edu-advisors">Advisors: <a href="https://person.zju.edu.cn/en/jifanzhou" target="_blank" rel="noopener">Prof. Jifan Zhou</a>, <a href="https://person.zju.edu.cn/moweishen" target="_blank" rel="noopener">Prof. Mowei Shen</a></div>
+          <div class="edu-meta edu-advisors">Advisors: <a href="https://person.zju.edu.cn/en/jifanzhou" target="_blank" rel="noopener">Prof. Jifan Zhou</a> (Young Changjiang Scholar), <a href="https://person.zju.edu.cn/moweishen" target="_blank" rel="noopener">Prof. Mowei Shen</a> (Changjiang Distinguished Professor)</div>
         </div>
         <div class="edu-item">
           <div class="edu-school">
@@ -55,6 +55,10 @@ redirect_from:
   </div>
   <ul class="news-list">
     <li class="news-item">
+      <span class="news-date">2026.01</span>
+      <span class="news-text">🎉🎉🎉 Our paper "RoSIP: A Scale for Measuring Appearance-Based Social Interaction Potential in Robots" has been accepted by <em>HRI 2026</em> Late-Breaking Reports. See you in Edinburgh!</span>
+    </li>
+    <li class="news-item">
       <span class="news-date">2025.10</span>
       <span class="news-text">🎉🎉🎉 Awarded <strong>National Scholarship</strong> (2024-2025), top 1 student in college per year!</span>
       <div class="news-media">
@@ -67,11 +71,11 @@ redirect_from:
     </li>
     <li class="news-item">
       <span class="news-date">2025.02</span>
-      <span class="news-text">🎉🎉🎉 Paper "Enhancement of joint flanker effect in intergroup competition" published in <em>PsyCh Journal</em>.</span>
+      <span class="news-text">🎉🎉🎉 Our Paper "Enhancement of joint flanker effect in intergroup competition" has been published in <em>PsyCh Journal</em>.</span>
     </li>
     <li class="news-item">
       <span class="news-date">2024.12</span>
-      <span class="news-text">🎤 Oral presentation at the Annual Conference on Industrial Psychology and New Productivity!</span>
+      <span class="news-text">🎤 Oral presentation at the Annual Conference on Industrial Psychology and New Productivity in Shanghai!</span>
       <div class="news-media">
         <img src="{{ "/info/news/Annual%20Conference%20on%20Industrial%20Psychology%20and%20New%20Productivity.jpg" | relative_url }}" alt="Annual Conference on Industrial Psychology and New Productivity" />
       </div>
@@ -139,6 +143,17 @@ redirect_from:
 
   <h2><i class="fas fa-fw fa-comments section-icon" aria-hidden="true"></i>Conference Papers</h2>
   <div class="pub-list">
+    <div class="pub">
+      <div class="pub-left">
+        <img class="pub-cover" src="{{ "/info/Conference_Papers/RoSIP.jpg" | relative_url }}" alt="RoSIP cover" />
+        <div class="pub-badge">2026</div>
+      </div>
+      <div class="pub-right">
+        <div class="title">RoSIP: A Scale for Measuring Appearance-Based Social Interaction Potential in Robots</div>
+        <div class="authors"><strong>Hu, X.</strong>, Hu, Q., Yu, T., Shen, M., & Zhou, J.</div>
+        <div class="publish">The 2026 ACM/IEEE International Conference on Human-Robot Interaction Late-Breaking Reports (Edinburgh, UK) <span class="publish-icon" aria-hidden="true"><i class="fas fa-map-marker-alt"></i></span></div>
+      </div>
+    </div>
     <div class="pub">
       <div class="pub-left">
         <img class="pub-cover" src="{{ "/info/Conference_Papers/Spontaneous%20perspective-taking%20toward.jpg" | relative_url }}" alt="Spontaneous perspective-taking cover" />
@@ -224,7 +239,7 @@ redirect_from:
       </div>
       <div class="timeline-desc">
         <div class="timeline-host">Social Cognition underlying Human-Robot Interaction</div>
-        <div class="timeline-host">Supervisor: <a href="https://person.zju.edu.cn/en/jifanzhou" target="_blank" rel="noopener">Prof. Jifan Zhou</a>, <a href="https://person.zju.edu.cn/moweishen" target="_blank" rel="noopener">Prof. Mowei Shen</a></div>
+        <div class="timeline-host">Supervisor: <a href="https://person.zju.edu.cn/en/jifanzhou" target="_blank" rel="noopener">Prof. Jifan Zhou</a> (Young Changjiang Scholar), <a href="https://person.zju.edu.cn/moweishen" target="_blank" rel="noopener">Prof. Mowei Shen</a> (Changjiang Distinguished Professor)</div>
       </div>
     </div>
     <div class="timeline-item">
@@ -298,7 +313,7 @@ redirect_from:
     <tr>
       <td>2023</td>
       <td>Provincial Innovation Program</td>
-      <td>Provincial (Top 30%)</td>
+      <td>Provincial (Top 10%)</td>
     </tr>
     <tr>
       <td>2022</td>

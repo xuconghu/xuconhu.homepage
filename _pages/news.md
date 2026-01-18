@@ -4,6 +4,10 @@ title: "News"
 author_profile: true
 ---
 
+## 2026
+
+- **[Jan 2026]** Our paper "RoSIP: A Scale for Measuring Appearance-Based Social Interaction Potential in Robots" has been accepted by *HRI 2026* Late-Breaking Reports. See you in Edinburgh!
+
 ## 2025
 
 - **[Oct 2025]** Started remote research collaboration with Prof. Jianqiao Zhu at The University of Hong Kong, working on LLM-Human differences in Theory of Mind.
@@ -12,7 +16,7 @@ author_profile: true
 
 - **[Jan 2025]** Our paper "Good to see you R2-D2: Inducing spontaneous perspective-taking towards non-human agents through human-like gaze and reach" has been published in *Cognition*.
 
-- **[Jan 2025]** Paper "Enhancement of joint flanker effect in intergroup competition" published in *PsyCh Journal*.
+- **[Jan 2025]** Our Paper "Enhancement of joint flanker effect in intergroup competition" has been published in *PsyCh Journal*.
 
 ## 2024
 
