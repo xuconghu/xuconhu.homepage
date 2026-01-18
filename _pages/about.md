@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.page__title { display: none; }
+</style>
+
 <a id="about"></a>
 
 <h1>👋 About Me</h1>
