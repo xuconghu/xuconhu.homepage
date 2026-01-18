@@ -33,7 +33,7 @@ redirect_from:
           </div>
           <div class="edu-location">Hangzhou, China</div>
           <div class="edu-meta">M.S. in Psychology | Sep. 2024 - Jun. 2027 (Expected)</div>
-          <div class="edu-meta edu-advisors">Advisors: <a href="https://person.zju.edu.cn/en/jifanzhou" target="_blank" rel="noopener">Prof. Jifan Zhou</a> (Young Changjiang Scholar), <a href="https://person.zju.edu.cn/moweishen" target="_blank" rel="noopener">Prof. Mowei Shen</a> (Changjiang Distinguished Professor)</div>
+          <div class="edu-meta edu-advisors">Advisors: <a href="https://person.zju.edu.cn/en/jifanzhou" target="_blank" rel="noopener">Prof. Jifan Zhou</a>, <a href="https://person.zju.edu.cn/moweishen" target="_blank" rel="noopener">Prof. Mowei Shen</a></div>
         </div>
         <div class="edu-item">
           <div class="edu-school">
@@ -219,7 +219,7 @@ redirect_from:
       <div class="pub-right">
         <div class="title">Simulated Annealing Enhances Theory-of-Mind Reasoning in Autoregressive Language Models</div>
         <div class="authors"><strong>Hu, X.</strong>, & Zhu, J.</div>
-        <div class="tags">[<a class="tag" href="#">arXiv</a>]</div>
+        <div class="tags">[<a class="tag" href="#">arXiv</a>] [<a class="tag" href="#">Paper</a>]</div>
       </div>
     </div>
   </div>
