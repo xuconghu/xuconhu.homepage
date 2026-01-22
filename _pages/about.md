@@ -250,7 +250,7 @@ redirect_from:
       </div>
       <div class="timeline-desc">
         <div class="timeline-host">Social Cognition underlying Human-Robot Interaction</div>
-        <div class="timeline-host">Supervisor: <a href="https://person.zju.edu.cn/en/jifanzhou" target="_blank" rel="noopener">Prof. Jifan Zhou</a> (Young Changjiang Scholar), <a href="https://person.zju.edu.cn/moweishen" target="_blank" rel="noopener">Prof. Mowei Shen</a> (Changjiang Distinguished Professor)</div>
+        <div class="timeline-host">Supervisor: <a href="https://person.zju.edu.cn/en/jifanzhou" target="_blank" rel="noopener">Prof. Jifan Zhou</a>, <a href="https://person.zju.edu.cn/moweishen" target="_blank" rel="noopener">Prof. Mowei Shen</a></div>
       </div>
     </div>
     <div class="timeline-item">
