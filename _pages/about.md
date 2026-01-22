@@ -62,7 +62,11 @@ redirect_from:
   <ul class="news-list">
     <li class="news-item">
       <span class="news-date">2026.01</span>
-      <span class="news-text">🎉🎉🎉 Our paper "RoSIP: A Scale for Measuring Appearance-Based Social Interaction Potential in Robots" has been accepted by <em>HRI 2026</em> Late-Breaking Reports. See you in Edinburgh!</span>
+      <span class="news-text">🎉🎉🎉 Our paper "RoSIP: A Scale for Measuring Appearance-Based Social Interaction Potential in Robots" has been accepted by <em>HRI 2026</em> Late-Breaking Reports. See you in Edinburgh in March!</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">2026.01</span>
+      <span class="news-text">📄 Our paper "Simulated Annealing Enhances Theory-of-Mind Reasoning in Autoregressive Language Models" is now available as a preprint on <a href="https://arxiv.org/abs/2601.12269" target="_blank" rel="noopener"><em>arXiv</em></a>.</span>
     </li>
     <li class="news-item">
       <span class="news-date">2025.10</span>
@@ -219,13 +223,13 @@ redirect_from:
     </div>
     <div class="pub">
       <div class="pub-left">
-        <img class="pub-cover" src="{{ "/info/Under_Review/Simulated%20Annealing.jpg" | relative_url }}" alt="Simulated Annealing cover" />
+        <img class="pub-cover" src="{{ "/info/Under_Review/Simulated_Annealing.png" | relative_url }}" alt="Simulated Annealing cover" />
         <div class="pub-badge">2026</div>
       </div>
       <div class="pub-right">
         <div class="title">Simulated Annealing Enhances Theory-of-Mind Reasoning in Autoregressive Language Models</div>
-        <div class="authors"><strong>Hu, X.</strong>, & Zhu, J.</div>
-        <div class="tags">[<a class="tag" href="#">arXiv</a>] [<a class="tag" href="#">Paper</a>]</div>
+        <div class="authors"><strong>Hu, X.</strong>, & Zhu, J. Q.</div>
+        <div class="tags">[<a class="tag" href="https://arxiv.org/abs/2601.12269" target="_blank" rel="noopener">arXiv</a>] [<a class="tag" href="https://arxiv.org/pdf/2601.12269" target="_blank" rel="noopener">Paper</a>]</div>
       </div>
     </div>
   </div>

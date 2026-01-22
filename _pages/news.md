@@ -6,7 +6,9 @@ author_profile: true
 
 ## 2026
 
-- **[Jan 2026]** Our paper "RoSIP: A Scale for Measuring Appearance-Based Social Interaction Potential in Robots" has been accepted by *HRI 2026* Late-Breaking Reports. See you in Edinburgh!
+- **[Jan 2026]** Our paper "RoSIP: A Scale for Measuring Appearance-Based Social Interaction Potential in Robots" has been accepted by *HRI 2026* Late-Breaking Reports. See you in Edinburgh in March!
+
+- **[Jan 2026]** Our paper "Simulated Annealing Enhances Theory-of-Mind Reasoning in Autoregressive Language Models" is now available as a preprint on [*arXiv*](https://arxiv.org/abs/2601.12269).
 
 ## 2025
 
