@@ -263,14 +263,21 @@
 }
 
 .pub-list {
-  overflow: auto;
+  overflow: visible;
 }
 
 .pub {
   margin: 0.5rem 0 1rem;
   padding-top: 0.5rem;
   border-top: 1px solid #e0e0e0;
-  overflow: auto;
+  overflow: visible;
+  min-height: 170px;
+}
+
+.pub::after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 .pub:first-child {
@@ -288,10 +295,13 @@
   width: 250px;
   height: 140px;
   margin: 0 auto 6px;
-  border: 1px solid var(--accent-red);
   object-fit: contain;
   max-width: none;
   background: #fff;
+  position: relative;
+  box-shadow: inset 0 0 0 1px var(--accent-red);
+  outline: 1px solid var(--accent-red);
+  outline-offset: -1px;
 }
 
 
@@ -320,12 +330,13 @@
 
 .pub-badge {
   display: inline-block;
-  padding: 4px 8px;
+  padding: 2px 6px;
   border: 1px solid var(--accent-red);
   color: var(--accent-red);
   font-weight: 600;
-  border-radius: 4px;
-  font-size: 0.85em;
+  border-radius: 3px;
+  font-size: 0.75em;
+  margin-bottom: 4px;
 }
 
 .pub-right {

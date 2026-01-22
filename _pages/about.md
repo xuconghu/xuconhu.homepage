@@ -62,11 +62,11 @@ redirect_from:
   <ul class="news-list">
     <li class="news-item">
       <span class="news-date">2026.01</span>
-      <span class="news-text">🎉🎉🎉 Our paper "RoSIP: A Scale for Measuring Appearance-Based Social Interaction Potential in Robots" has been accepted by <em>HRI 2026</em> Late-Breaking Reports. See you in Edinburgh in March!</span>
+      <span class="news-text">📄 Our paper "Simulated Annealing Enhances Theory-of-Mind Reasoning in Autoregressive Language Models" is now available as a preprint on <a href="https://arxiv.org/abs/2601.12269" target="_blank" rel="noopener"><em>arXiv</em></a>.</span>
     </li>
     <li class="news-item">
       <span class="news-date">2026.01</span>
-      <span class="news-text">📄 Our paper "Simulated Annealing Enhances Theory-of-Mind Reasoning in Autoregressive Language Models" is now available as a preprint on <a href="https://arxiv.org/abs/2601.12269" target="_blank" rel="noopener"><em>arXiv</em></a>.</span>
+      <span class="news-text">🎉🎉🎉 Our paper "RoSIP: A Scale for Measuring Appearance-Based Social Interaction Potential in Robots" has been accepted by <em>HRI 2026</em> Late-Breaking Reports. See you in Edinburgh in March!</span>
     </li>
     <li class="news-item">
       <span class="news-date">2025.10</span>
